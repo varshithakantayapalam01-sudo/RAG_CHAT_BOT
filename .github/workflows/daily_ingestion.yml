@@ -1,6 +1,9 @@
 name: Daily Mutual Fund Ingestion Pipeline
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # 10:30 AM IST (UTC+05:30) corresponds to 05:00 UTC daily
     - cron: '0 5 * * *'
