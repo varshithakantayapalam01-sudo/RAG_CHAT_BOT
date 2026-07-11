@@ -1,0 +1,78 @@
+{
+  "sources": [
+    {
+      "id": "groww_hdfc_midcap",
+      "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+      "type": "scheme_page",
+      "format": "html",
+      "scheme": "HDFC Mid-Cap Fund – Direct Growth",
+      "category": "Mid-Cap",
+      "status": "downloaded",
+      "downloaded_at": "2026-07-11T22:53:01.637209+00:00",
+      "raw_file": "data\\raw\\groww\\groww_hdfc_midcap.html",
+      "content_length": 408828
+    },
+    {
+      "id": "groww_hdfc_equity",
+      "url": "https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth",
+      "type": "scheme_page",
+      "format": "html",
+      "scheme": "HDFC Equity Fund – Direct Growth",
+      "category": "Multi-Cap / Flexi-Cap",
+      "status": "downloaded",
+      "downloaded_at": "2026-07-11T22:53:01.637209+00:00",
+      "raw_file": "data\\raw\\groww\\groww_hdfc_equity.html",
+      "content_length": 407501
+    },
+    {
+      "id": "groww_hdfc_focused",
+      "url": "https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth",
+      "type": "scheme_page",
+      "format": "html",
+      "scheme": "HDFC Focused Fund – Direct Growth",
+      "category": "Focused / Flexi-Cap",
+      "status": "downloaded",
+      "downloaded_at": "2026-07-11T22:53:01.637209+00:00",
+      "raw_file": "data\\raw\\groww\\groww_hdfc_focused.html",
+      "content_length": 360596
+    },
+    {
+      "id": "groww_hdfc_elss",
+      "url": "https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth",
+      "type": "scheme_page",
+      "format": "html",
+      "scheme": "HDFC ELSS Tax Saver Fund – Direct Plan Growth",
+      "category": "ELSS (Tax Saving)",
+      "status": "downloaded",
+      "downloaded_at": "2026-07-11T22:53:01.637209+00:00",
+      "raw_file": "data\\raw\\groww\\groww_hdfc_elss.html",
+      "content_length": 392288
+    },
+    {
+      "id": "groww_hdfc_largecap",
+      "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+      "type": "scheme_page",
+      "format": "html",
+      "scheme": "HDFC Large Cap Fund – Direct Growth",
+      "category": "Large-Cap",
+      "status": "downloaded",
+      "downloaded_at": "2026-07-11T22:53:01.637209+00:00",
+      "raw_file": "data\\raw\\groww\\groww_hdfc_largecap.html",
+      "content_length": 375132
+    }
+  ],
+  "corpus_stats": {
+    "total_urls": 5,
+    "html_sources": 5,
+    "pdf_sources": 0,
+    "schemes_covered": 5,
+    "source_types": [
+      "scheme_page"
+    ],
+    "allowed_domains": [
+      "groww.in"
+    ],
+    "last_collected": "2026-07-11T22:53:01.637209+00:00",
+    "last_verified": null
+  }
+}

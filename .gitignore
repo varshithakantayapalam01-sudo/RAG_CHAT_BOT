@@ -1,0 +1,51 @@
+# ========================================
+# Mutual Fund FAQ Assistant — .gitignore
+# ========================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+*.egg
+
+# --- Virtual Environment ---
+venv/
+.venv/
+env/
+
+# --- Environment Variables ---
+.env
+
+# --- Vector Store ---
+vectorstore/
+
+# --- Raw Data (downloaded during ingestion) ---
+data/raw/
+data/processed/
+
+# --- IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- OS ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Testing ---
+.pytest_cache/
+htmlcov/
+.coverage

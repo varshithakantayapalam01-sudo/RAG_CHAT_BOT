@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HDFC Mutual Fund FAQ Assistant — Facts-Only Q&A</title>
+    <meta name="description" content="Get factual, source-backed answers for HDFC mutual fund schemes. Safe, compliance-oriented, and facts-only.">
+    <!-- Premium Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    <!-- CSS Design Tokens -->
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="app-container">
+        <!-- App Header -->
+        <header class="app-header">
+            <div class="header-content">
+                <div class="brand">
+                    <span class="logo-icon">🏦</span>
+                    <div class="brand-text">
+                        <h1>HDFC Mutual Fund FAQ Assistant</h1>
+                        <p class="brand-tagline">Official Schemes Information Desk</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Compliance Disclaimer Banner -->
+        <div class="disclaimer-banner" id="disclaimer-banner">
+            <span class="warning-icon">⚠️</span>
+            <span class="banner-text"><strong>Facts-only.</strong> No investment advice or recommendations.</span>
+        </div>
+
+        <!-- Chat Workspace -->
+        <main class="chat-container">
+            <div class="messages-area" id="messages-area">
+                <!-- Welcome / Info Card -->
+                <div class="welcome-card" id="welcome-card">
+                    <div class="welcome-header">
+                        <span class="bot-avatar">🤖</span>
+                        <h2>Welcome to the HDFC MF FAQ Assistant!</h2>
+                    </div>
+                    <p>I am a compliance-oriented, facts-only assistant designed to answer factual questions about the following 5 HDFC schemes:</p>
+                    <ul class="scheme-list">
+                        <li>HDFC Mid-Cap Fund – Direct Growth</li>
+                        <li>HDFC Equity Fund – Direct Growth</li>
+                        <li>HDFC Focused Fund – Direct Growth</li>
+                        <li>HDFC ELSS Tax Saver Fund – Direct Plan Growth</li>
+                        <li>HDFC Large Cap Fund – Direct Growth</li>
+                    </ul>
+                    <p class="instruction">Click one of the example queries below to get started:</p>
+                    <div class="example-questions">
+                        <button class="example-btn" id="q1" data-query="What is the expense ratio of HDFC Mid-Cap Fund – Direct Growth?">
+                            📊 What is the expense ratio of HDFC Mid-Cap?
+                        </button>
+                        <button class="example-btn" id="q2" data-query="What is the lock-in period for HDFC ELSS Tax Saver Fund?">
+                            🔒 What is the lock-in period for ELSS?
+                        </button>
+                        <button class="example-btn" id="q3" data-query="How do I download my capital gains statement from HDFC AMC?">
+                            📄 How do I download my capital gains statement?
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Input Bar -->
+            <footer class="input-area">
+                <form id="chat-form" class="chat-form">
+                    <input 
+                        type="text" 
+                        id="chat-input" 
+                        placeholder="Ask a factual question about HDFC mutual funds..." 
+                        autocomplete="off"
+                        required
+                        maxlength="500"
+                    >
+                    <button type="submit" id="send-btn" aria-label="Send query">
+                        <span class="send-icon">➤</span>
+                    </button>
+                </form>
+            </footer>
+        </main>
+    </div>
+    <!-- Logic Bindings -->
+    <script src="app.js"></script>
+</body>
+</html>

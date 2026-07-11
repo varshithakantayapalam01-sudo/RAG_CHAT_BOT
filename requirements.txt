@@ -1,0 +1,26 @@
+# Core
+fastapi
+uvicorn[standard]
+python-dotenv
+pydantic
+
+# RAG Pipeline
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+
+# Data Ingestion (HTML only — Groww pages)
+beautifulsoup4
+requests
+
+# Utilities
+tiktoken
+
+# Testing
+pytest
+httpx
+
+# Pinned for Python 3.9 Windows compatibility
+greenlet==3.0.3
