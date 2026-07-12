@@ -7,6 +7,7 @@ pydantic
 # RAG Pipeline
 langchain
 langchain-community
+langchain-text-splitters
 langchain-groq
 chromadb
 sentence-transformers

@@ -8,7 +8,7 @@ RecursiveCharacterTextSplitter.  Each chunk inherits the parent document's
 metadata and is assigned a unique chunk_id + positional index.
 """
 
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain_text_splitters import RecursiveCharacterTextSplitter
 
 from src.config import CHUNK_SIZE, CHUNK_OVERLAP
 
