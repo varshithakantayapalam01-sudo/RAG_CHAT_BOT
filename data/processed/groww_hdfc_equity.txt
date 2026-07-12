@@ -1,0 +1,102 @@
+Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
+Scheme: HDFC Equity Fund – Direct Growth
+Category: Multi-Cap / Flexi-Cap
+Downloaded: 2026-07-12T19:51:11.850296+00:00
+============================================================
+
+SCHEME INFORMATION
+----------------------------------------
+  Scheme Name:      HDFC Flexi Cap Direct Plan Growth
+  AMC:              HDFC
+  Category:         Equity
+  Sub-Category:     Flexi Cap
+  Plan Type:        Direct
+  Scheme Type:      Growth
+  Launch Date:      01-Jan-2013
+  Benchmark:        NIFTY 500 Total Return Index
+  Risk Level:       Moderately High
+  Fund Manager:     Prashant Jain
+  ISIN:             INF179K01UT0
+  Groww Rating:     5
+
+DESCRIPTION
+----------------------------------------
+  The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.
+
+NAV DETAILS
+----------------------------------------
+  Current NAV:      2240.661
+  NAV Date:         10-Jul-2026
+
+COSTS & FEES
+----------------------------------------
+  Expense Ratio:    0.78
+  Exit Load:        Exit load of 1% if redeemed within 1 year
+
+  Stamp Duty:       0.005% (from July 1st, 2020)
+
+FUND SIZE
+----------------------------------------
+  AUM:              106,495.63 Cr
+  Turnover:         29%
+
+MINIMUM INVESTMENT
+----------------------------------------
+  Lumpsum:          Rs. 100
+  SIP:              Rs. 100
+  Additional:       Rs. 100
+
+LOCK-IN PERIOD
+----------------------------------------
+  years: None
+  months: None
+  days: None
+
+LUMPSUM RETURNS
+----------------------------------------
+  return1d: 1.0012400556%
+  return1w: 0.1293253498%
+  return1m: 5.7748792681%
+  return3m: 3.5917709522%
+  return6m: -1.0440745095%
+  return9m: -0.1589855581%
+  return1y: 3.0525366901%
+  return2y: 12.462713798065%
+  return3y: 64.592555265481%
+  return4y: 111.129757498548%
+  return5y: 138.003843053028%
+  return10y: 370.106875802512%
+  return_since_created: 654.746426%
+  cat_return1y: 2.186654493631268%
+  cat_return3y: 56.03453242841776%
+  cat_return5y: 106.54761965695809%
+
+SIP RETURNS (XIRR)
+----------------------------------------
+  return3m: 41.22932435238689%
+  return6m: 17.447434378901765%
+  return9m: 5.673178639081773%
+  return1y: 4.754490186708948%
+  return2y: 5.912334678956223%
+  return3y: 10.7339447534669%
+  return4y: 14.880899275872705%
+  return5y: 16.45028289457042%
+  return10y: 17.709960453627787%
+
+TOP HOLDINGS
+----------------------------------------
+   1. ICICI Bank Ltd (Financial) - 9.18%
+   2. Axis Bank Ltd (Financial) - 6.84%
+   3. HDFC Bank Ltd (Financial) - 6.77%
+   4. State Bank of India (Financial) - 4.3%
+   5. SBI Life Insurance Company Ltd (Financial) - 3.47%
+   6. Larsen & Toubro Ltd (Industrials) - 3.45%
+   7. Interglobe Aviation Ltd (Industrials) - 3.26%
+   8. Kotak Mahindra Bank Ltd (Financial) - 3.26%
+   9. Repo (Unspecified) - 3.18%
+  10. Zomato Ltd (Technology) - 3.05%
+
+FUND MANAGER DETAILS
+----------------------------------------
+   (Exp: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells)
+   (Exp: Prior to joining the HDFC AMC, he has worked with Invesco Asset Management (India) Pvt. Ltd, HDFC Mutual Fund, DBS Cholamandalam AMC Pvt. Ltd. and Fidelity.)

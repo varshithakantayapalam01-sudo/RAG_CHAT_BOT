@@ -21,11 +21,11 @@ env/
 .env
 
 # --- Vector Store ---
-vectorstore/
+# vectorstore/
 
 # --- Raw Data (downloaded during ingestion) ---
-data/raw/
-data/processed/
+# data/raw/
+# data/processed/
 
 # --- IDE ---
 .vscode/

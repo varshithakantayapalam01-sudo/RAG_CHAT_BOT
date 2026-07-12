@@ -1,0 +1,101 @@
+Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+Scheme: HDFC Mid-Cap Fund – Direct Growth
+Category: Mid-Cap
+Downloaded: 2026-07-12T19:51:11.850296+00:00
+============================================================
+
+SCHEME INFORMATION
+----------------------------------------
+  Scheme Name:      HDFC Mid Cap Fund Direct Growth
+  AMC:              HDFC
+  Category:         Equity
+  Sub-Category:     Mid Cap
+  Plan Type:        Direct
+  Scheme Type:      Growth
+  Launch Date:      01-Jan-2013
+  Benchmark:        NIFTY Midcap 150 Total Return Index
+  Risk Level:       Moderately High
+  Fund Manager:     Chirag Setalvad
+  ISIN:             INF179K01XQ0
+  Groww Rating:     5
+
+DESCRIPTION
+----------------------------------------
+  The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Mid-Cap companies.
+
+NAV DETAILS
+----------------------------------------
+  Current NAV:      231.97
+  NAV Date:         10-Jul-2026
+
+COSTS & FEES
+----------------------------------------
+  Expense Ratio:    0.75
+  Exit Load:        Exit load of 1% if redeemed within 1 year.
+  Stamp Duty:       0.005% (from July 1st, 2020)
+
+FUND SIZE
+----------------------------------------
+  AUM:              100,858.31 Cr
+  Turnover:         13%
+
+MINIMUM INVESTMENT
+----------------------------------------
+  Lumpsum:          Rs. 100
+  SIP:              Rs. 100
+  Additional:       Rs. 100
+
+LOCK-IN PERIOD
+----------------------------------------
+  years: None
+  months: None
+  days: None
+
+LUMPSUM RETURNS
+----------------------------------------
+  return1d: 1.3279168305%
+  return1w: 1.0348702492%
+  return1m: 6.1608728285%
+  return3m: 7.6187206562%
+  return6m: 4.3396514965%
+  return9m: 6.7328618689%
+  return1y: 7.0900965782%
+  return2y: 15.19991259566%
+  return3y: 78.338317713899%
+  return4y: 146.755595268487%
+  return5y: 158.258091092283%
+  return10y: 454.395105396491%
+  return_since_created: 1133.948614%
+  cat_return1y: 1.9589569430918718%
+  cat_return3y: 79.90065019299995%
+  cat_return5y: 165.0775599907438%
+
+SIP RETURNS (XIRR)
+----------------------------------------
+  return3m: 54.90949230859346%
+  return6m: 31.978630999633808%
+  return9m: 16.20363262529204%
+  return1y: 13.97858887144775%
+  return2y: 10.825879144463602%
+  return3y: 13.84079833997902%
+  return4y: 18.848719047384492%
+  return5y: 20.0901877232616%
+  return10y: 20.290477958109314%
+
+TOP HOLDINGS
+----------------------------------------
+   1. Repo (Unspecified) - 8.11%
+   2. The Federal Bank Ltd (Financial) - 4.18%
+   3. Max Financial Services Ltd (Financial) - 4.1%
+   4. AU Small Finance Bank Ltd (Financial) - 4.08%
+   5. Balkrishna Industries Ltd (Consumer Discretionary) - 3.1%
+   6. Fortis Healthcare Ltd (Healthcare) - 3.07%
+   7. Ipca Laboratories Ltd (Healthcare) - 3.05%
+   8. Indian Bank (Financial) - 2.98%
+   9. Glenmark Pharmaceuticals Ltd (Healthcare) - 2.93%
+  10. Vishal Mega Mart Ltd. (Consumer Staples) - 2.64%
+
+FUND MANAGER DETAILS
+----------------------------------------
+   (Exp: Prior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.)
+   (Exp: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells)

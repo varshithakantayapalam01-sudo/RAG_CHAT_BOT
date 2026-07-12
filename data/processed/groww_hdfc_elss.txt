@@ -1,0 +1,101 @@
+Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
+Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
+Category: ELSS (Tax Saving)
+Downloaded: 2026-07-12T19:51:11.850296+00:00
+============================================================
+
+SCHEME INFORMATION
+----------------------------------------
+  Scheme Name:      HDFC ELSS Tax Saver Fund Direct Plan Growth
+  AMC:              HDFC
+  Category:         Equity
+  Sub-Category:     ELSS
+  Plan Type:        Direct
+  Scheme Type:      Growth
+  Launch Date:      01-Jan-2013
+  Benchmark:        NIFTY 500 Total Return Index
+  Risk Level:       Moderately High
+  Fund Manager:     Vinay Kulkarni
+  ISIN:             INF179K01YS4
+  Groww Rating:     5
+
+DESCRIPTION
+----------------------------------------
+  The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.
+
+NAV DETAILS
+----------------------------------------
+  Current NAV:      1493.492
+  NAV Date:         10-Jul-2026
+
+COSTS & FEES
+----------------------------------------
+  Expense Ratio:    1.2
+  Exit Load:        Nil
+  Stamp Duty:       0.005% (from July 1st, 2020)
+
+FUND SIZE
+----------------------------------------
+  AUM:              15,685.17 Cr
+  Turnover:         32%
+
+MINIMUM INVESTMENT
+----------------------------------------
+  Lumpsum:          Rs. 500
+  SIP:              Rs. 500
+  Additional:       Rs. 500
+
+LOCK-IN PERIOD
+----------------------------------------
+  years: 3
+  months: 0
+  days: 0
+
+LUMPSUM RETURNS
+----------------------------------------
+  return1d: 1.0472844285%
+  return1w: 0.1380551456%
+  return1m: 5.1375101812%
+  return3m: 1.6952245546%
+  return6m: -4.4169402121%
+  return9m: -4.2816179986%
+  return1y: -2.5159314037%
+  return2y: 4.439123587774%
+  return3y: 55.624606638073%
+  return4y: 95.076751063229%
+  return5y: 118.265731731199%
+  return10y: 277.185401445106%
+  return_since_created: 506.093023%
+  cat_return1y: 2.4219756725166297%
+  cat_return3y: 57.51961187822414%
+  cat_return5y: 114.41805749073635%
+
+SIP RETURNS (XIRR)
+----------------------------------------
+  return3m: 31.472805772811398%
+  return6m: 9.581969012161618%
+  return9m: -1.304567927306844%
+  return1y: -1.59168054173488%
+  return2y: 1.3250032372278442%
+  return3y: 7.017248659298897%
+  return4y: 11.990361596730237%
+  return5y: 13.77075001939741%
+  return10y: 14.999517187855915%
+
+TOP HOLDINGS
+----------------------------------------
+   1. ICICI Bank Ltd (Financial) - 9.64%
+   2. HDFC Bank Ltd (Financial) - 8.44%
+   3. Axis Bank Ltd (Financial) - 7.6%
+   4. Maruti Suzuki India Ltd (Consumer Discretionary) - 4.95%
+   5. State Bank of India (Financial) - 4.58%
+   6. Bharti Airtel Ltd (Technology) - 4.47%
+   7. Kotak Mahindra Bank Ltd (Financial) - 4.38%
+   8. SBI Life Insurance Company Ltd (Financial) - 3.36%
+   9. Reliance Industries Ltd (Energy & Utilities) - 2.74%
+  10. HCL Technologies Ltd (Technology) - 2.44%
+
+FUND MANAGER DETAILS
+----------------------------------------
+   (Exp: Prior to joining HDFC Asset Management Company Limited, he has worked with Nippon India Mutual Fund, and HDFC AMC. He worked with multiple roles at HDFC MF.)
+   (Exp: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells)

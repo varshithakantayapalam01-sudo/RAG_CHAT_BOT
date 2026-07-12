@@ -134,9 +134,15 @@ def main():
             success_count += 1
         else:
             print(f"  FAILED: {result['error']}")
-            source["status"] = "failed"
-            source["error"] = result["error"]
-            fail_count += 1
+            if output_file.exists():
+                print(f"  [FALLBACK] Using existing cached file: {output_file.relative_to(PROJECT_ROOT)}")
+                source["status"] = "cached"
+                source["error"] = f"Download failed: {result['error']}. Used cached fallback."
+                success_count += 1
+            else:
+                source["status"] = "failed"
+                source["error"] = result["error"]
+                fail_count += 1
 
     # Update corpus stats
     metadata["corpus_stats"]["last_collected"] = now

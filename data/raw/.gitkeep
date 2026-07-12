@@ -1,0 +1,2 @@
+# Data directory — raw and processed files stored here during ingestion.
+# See data/metadata.json for the source URL registry.

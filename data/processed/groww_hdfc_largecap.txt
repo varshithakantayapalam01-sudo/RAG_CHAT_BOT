@@ -1,0 +1,101 @@
+Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Scheme: HDFC Large Cap Fund – Direct Growth
+Category: Large-Cap
+Downloaded: 2026-07-12T19:51:11.850296+00:00
+============================================================
+
+SCHEME INFORMATION
+----------------------------------------
+  Scheme Name:      HDFC Large Cap Fund Direct Growth
+  AMC:              HDFC
+  Category:         Equity
+  Sub-Category:     Large Cap
+  Plan Type:        Direct
+  Scheme Type:      Growth
+  Launch Date:      01-Jan-2013
+  Benchmark:        NIFTY 100 Total Return Index
+  Risk Level:       Moderately High Riskometer
+  Fund Manager:     Prashant Jain
+  ISIN:             INF179K01YV8
+  Groww Rating:     4
+
+DESCRIPTION
+----------------------------------------
+  The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.
+
+NAV DETAILS
+----------------------------------------
+  Current NAV:      1236.776
+  NAV Date:         10-Jul-2026
+
+COSTS & FEES
+----------------------------------------
+  Expense Ratio:    1.04
+  Exit Load:        Exit load of 1% if redeemed within 1 year
+  Stamp Duty:       0.005% (from July 1st, 2020)
+
+FUND SIZE
+----------------------------------------
+  AUM:              39,023.69 Cr
+  Turnover:         18%
+
+MINIMUM INVESTMENT
+----------------------------------------
+  Lumpsum:          Rs. 100
+  SIP:              Rs. 100
+  Additional:       Rs. 100
+
+LOCK-IN PERIOD
+----------------------------------------
+  years: None
+  months: None
+  days: None
+
+LUMPSUM RETURNS
+----------------------------------------
+  return1d: 0.7502651589%
+  return1w: 0.2120472322%
+  return1m: 6.673152741%
+  return3m: 3.6403021783%
+  return6m: -2.6057100558%
+  return9m: -0.4005637206%
+  return1y: -0.1981872644%
+  return2y: 2.080862355713%
+  return3y: 40.021624069514%
+  return4y: 74.281680058395%
+  return5y: 88.280355620509%
+  return10y: 253.938963804116%
+  return_since_created: 440.211319%
+  cat_return1y: 7.147399676288324%
+  cat_return3y: 52.35474654160532%
+  cat_return5y: 100.81389461213175%
+
+SIP RETURNS (XIRR)
+----------------------------------------
+  return3m: 43.289920214126%
+  return6m: 16.574338129254052%
+  return9m: 3.991450351465224%
+  return1y: 2.9775443156405874%
+  return2y: 2.253965413091346%
+  return3y: 5.450758623661897%
+  return4y: 9.314588575387242%
+  return5y: 10.806136174390515%
+  return10y: 13.269755000309512%
+
+TOP HOLDINGS
+----------------------------------------
+   1. ICICI Bank Ltd (Financial) - 9.73%
+   2. HDFC Bank Ltd (Financial) - 7.92%
+   3. Bharti Airtel Ltd (Technology) - 5.66%
+   4. Kotak Mahindra Bank Ltd (Financial) - 5.46%
+   5. Reliance Industries Ltd (Energy & Utilities) - 4.96%
+   6. Titan Company Ltd (Consumer Discretionary) - 4.65%
+   7. Torrent Pharmaceuticals Ltd (Healthcare) - 3.77%
+   8. Axis Bank Ltd (Financial) - 3.69%
+   9. Bajaj Finserv Ltd (Financial) - 3%
+  10. Lupin Ltd (Healthcare) - 2.86%
+
+FUND MANAGER DETAILS
+----------------------------------------
+   (Exp: Prior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.)
+   (Exp: Prior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & Sells)
