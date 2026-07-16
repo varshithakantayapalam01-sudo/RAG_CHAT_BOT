@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-07-15T07:09:03.607650+00:00
+Downloaded: 2026-07-16T07:18:35.135553+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      230.008
-  NAV Date:         14-Jul-2026
+  Current NAV:      230.532
+  NAV Date:         15-Jul-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -72,15 +72,15 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 38.35373751141358%
-  return6m: 25.924786255727415%
-  return9m: 13.072450660536822%
-  return1y: 11.739510178263263%
-  return2y: 9.788025332056124%
-  return3y: 13.131158586978565%
-  return4y: 18.293241760629%
-  return5y: 19.650838276737353%
-  return10y: 20.094405406463117%
+  return3m: 39.9596652372028%
+  return6m: 26.762355796578564%
+  return9m: 13.661068814954252%
+  return1y: 12.178788813304406%
+  return2y: 10.004787401729395%
+  return3y: 13.269416916243749%
+  return4y: 18.390130945937074%
+  return5y: 19.725381270339888%
+  return10y: 20.12746088401129%
 
 TOP HOLDINGS
 ----------------------------------------
