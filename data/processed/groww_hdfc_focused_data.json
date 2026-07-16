@@ -13,8 +13,8 @@
   "isin": "INF179K01VK7",
   "description": "The scheme seeks to generate long term capital appreciation/income by investing in equity & equity related instruments of up to 30 companies.",
   "nav": {
-    "current_nav": 266.569,
-    "nav_date": "15-Jul-2026"
+    "current_nav": 266.375,
+    "nav_date": "16-Jul-2026"
   },
   "expense_ratio": "0.76",
   "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -415,8 +415,8 @@
       "sub_sub_category": "",
       "aum": 143388.43433165,
       "mean_return": 14.11,
-      "return3y": 14.42,
-      "return1y": -1.57,
+      "return3y": 14.52,
+      "return1y": -1.4,
       "min_investment": 1000,
       "groww_rating": 5,
       "risk_rating": 6,
