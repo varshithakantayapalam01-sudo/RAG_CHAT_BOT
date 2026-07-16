@@ -13,8 +13,8 @@
   "isin": "INF179K01UT0",
   "description": "The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.",
   "nav": {
-    "current_nav": 2236.681,
-    "nav_date": "15-Jul-2026"
+    "current_nav": 2232.611,
+    "nav_date": "16-Jul-2026"
   },
   "expense_ratio": "0.77",
   "exit_load": "Exit load of 1% if redeemed within 1 year\r\n",
@@ -415,8 +415,8 @@
       "sub_sub_category": "",
       "aum": 143388.43433165,
       "mean_return": 14.11,
-      "return3y": 14.42,
-      "return1y": -1.57,
+      "return3y": 14.52,
+      "return1y": -1.4,
       "min_investment": 1000,
       "groww_rating": 5,
       "risk_rating": 6,

@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-07-16T07:18:35.135553+00:00
+Downloaded: 2026-07-16T18:13:04.167999+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1488.686
-  NAV Date:         15-Jul-2026
+  Current NAV:      1486.268
+  NAV Date:         16-Jul-2026
 
 COSTS & FEES
 ----------------------------------------
