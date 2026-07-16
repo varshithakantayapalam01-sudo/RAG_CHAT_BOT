@@ -3,7 +3,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://localhost:8000/api/:path*"
+      "destination": "https://ragchatbot-production-90bd.up.railway.app/api/:path*"
     }
   ]
 }
