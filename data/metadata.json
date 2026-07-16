@@ -8,7 +8,7 @@
       "scheme": "HDFC Mid-Cap Fund – Direct Growth",
       "category": "Mid-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-16T18:34:02.733035+00:00",
+      "downloaded_at": "2026-07-16T18:46:14.071662+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_midcap.html",
       "content_length": 411134
     },
@@ -20,7 +20,7 @@
       "scheme": "HDFC Equity Fund – Direct Growth",
       "category": "Multi-Cap / Flexi-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-16T18:34:02.733035+00:00",
+      "downloaded_at": "2026-07-16T18:46:14.071662+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_equity.html",
       "content_length": 409765
     },
@@ -32,7 +32,7 @@
       "scheme": "HDFC Focused Fund – Direct Growth",
       "category": "Focused / Flexi-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-16T18:34:02.733035+00:00",
+      "downloaded_at": "2026-07-16T18:46:14.071662+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_focused.html",
       "content_length": 362666
     },
@@ -44,7 +44,7 @@
       "scheme": "HDFC ELSS Tax Saver Fund – Direct Plan Growth",
       "category": "ELSS (Tax Saving)",
       "status": "downloaded",
-      "downloaded_at": "2026-07-16T18:34:02.733035+00:00",
+      "downloaded_at": "2026-07-16T18:46:14.071662+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_elss.html",
       "content_length": 394223
     },
@@ -56,7 +56,7 @@
       "scheme": "HDFC Large Cap Fund – Direct Growth",
       "category": "Large-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-16T18:34:02.733035+00:00",
+      "downloaded_at": "2026-07-16T18:46:14.071662+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_largecap.html",
       "content_length": 404979
     }
@@ -72,8 +72,8 @@
     "allowed_domains": [
       "groww.in"
     ],
-    "last_collected": "2026-07-16T18:34:02.733035+00:00",
+    "last_collected": "2026-07-16T18:46:14.071662+00:00",
     "last_verified": null,
-    "last_ingested": "2026-07-16T18:34:15.050972+00:00"
+    "last_ingested": "2026-07-16T18:46:26.196348+00:00"
   }
 }
