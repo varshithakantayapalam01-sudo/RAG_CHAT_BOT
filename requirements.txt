@@ -10,6 +10,9 @@ langchain-community
 langchain-text-splitters
 langchain-groq
 chromadb
+# CPU-only PyTorch (Railway runs CPU-only; avoids 3GB+ CUDA wheels)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 sentence-transformers
 
 # Data Ingestion (HTML only — Groww pages)
