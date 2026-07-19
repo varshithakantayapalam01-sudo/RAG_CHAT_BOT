@@ -8,7 +8,7 @@
       "scheme": "HDFC Mid-Cap Fund – Direct Growth",
       "category": "Mid-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-18T06:56:30.286898+00:00",
+      "downloaded_at": "2026-07-19T07:24:44.318738+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_midcap.html",
       "content_length": 411127
     },
@@ -20,7 +20,7 @@
       "scheme": "HDFC Equity Fund – Direct Growth",
       "category": "Multi-Cap / Flexi-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-18T06:56:30.286898+00:00",
+      "downloaded_at": "2026-07-19T07:24:44.318738+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_equity.html",
       "content_length": 409766
     },
@@ -32,7 +32,7 @@
       "scheme": "HDFC Focused Fund – Direct Growth",
       "category": "Focused / Flexi-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-18T06:56:30.286898+00:00",
+      "downloaded_at": "2026-07-19T07:24:44.318738+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_focused.html",
       "content_length": 362670
     },
@@ -44,7 +44,7 @@
       "scheme": "HDFC ELSS Tax Saver Fund – Direct Plan Growth",
       "category": "ELSS (Tax Saving)",
       "status": "downloaded",
-      "downloaded_at": "2026-07-18T06:56:30.286898+00:00",
+      "downloaded_at": "2026-07-19T07:24:44.318738+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_elss.html",
       "content_length": 394228
     },
@@ -56,9 +56,9 @@
       "scheme": "HDFC Large Cap Fund – Direct Growth",
       "category": "Large-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-07-18T06:56:30.286898+00:00",
+      "downloaded_at": "2026-07-19T07:24:44.318738+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_largecap.html",
-      "content_length": 404977
+      "content_length": 404973
     }
   ],
   "corpus_stats": {
@@ -72,8 +72,8 @@
     "allowed_domains": [
       "groww.in"
     ],
-    "last_collected": "2026-07-18T06:56:30.286898+00:00",
+    "last_collected": "2026-07-19T07:24:44.318738+00:00",
     "last_verified": null,
-    "last_ingested": "2026-07-18T06:56:45.045614+00:00"
+    "last_ingested": "2026-07-19T07:24:58.458780+00:00"
   }
 }

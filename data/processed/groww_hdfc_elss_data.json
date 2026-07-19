@@ -75,9 +75,9 @@
       "cat_return_since_launch": null,
       "rank3m": 36,
       "rank6m": 36,
-      "rank1yr": 28,
-      "rank3yr": 11,
-      "rank5yr": 4,
+      "rank1yr": 27,
+      "rank3yr": 10,
+      "rank5yr": 3,
       "rank10yr": 16,
       "index_return1y": -3.6998217604,
       "index_return3y": 16.510310840782,
@@ -281,9 +281,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 28,
-      "stat_3y": 11,
-      "stat_5y": 4,
+      "stat_1y": 27,
+      "stat_3y": 10,
+      "stat_5y": 3,
       "stat_all": null,
       "title": "Rank Within Category"
     }
