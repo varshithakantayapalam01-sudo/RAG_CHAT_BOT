@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-07-23T07:29:11.442605+00:00
+Downloaded: 2026-07-24T07:27:32.937648+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1226.743
-  NAV Date:         22-Jul-2026
+  Current NAV:      1220.849
+  NAV Date:         23-Jul-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -72,16 +72,16 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 24.13%
-  return6m: 10.92%
-  return9m: 1.49%
-  return1y: 1.17%
-  return2y: 1.37%
-  return3y: 4.78%
-  return4y: 8.75%
-  return5y: 10.34%
-  return10y: 13.04%
-  return_since_created: 13.2%
+  return3m: 19.47%
+  return6m: 8.82%
+  return9m: 0.24%
+  return1y: 0.22%
+  return2y: 0.88%
+  return3y: 4.45%
+  return4y: 8.49%
+  return5y: 10.13%
+  return10y: 12.94%
+  return_since_created: 13.13%
 
 TOP HOLDINGS
 ----------------------------------------
