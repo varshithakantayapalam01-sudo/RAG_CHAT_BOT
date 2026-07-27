@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 Scheme: HDFC Focused Fund – Direct Growth
 Category: Focused / Flexi-Cap
-Downloaded: 2026-07-26T07:32:21.328626+00:00
+Downloaded: 2026-07-27T08:24:25.333427+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -53,19 +53,19 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.6618488972%
-  return1w: 0.3874909679%
-  return1m: 3.2070083062%
-  return3m: 2.7919725518%
-  return6m: -1.0564536662%
-  return9m: -1.4397823969%
-  return1y: 2.4256268431%
-  return2y: 12.102043973226%
-  return3y: 63.397155427721%
-  return4y: 114.263568369238%
-  return5y: 148.269029563993%
-  return10y: 316.946042606126%
-  return_since_created: 565.32182%
+  return1d: -0.138503104%
+  return1w: -1.8538961281%
+  return1m: -0.03038971%
+  return3m: 2.5932206694%
+  return6m: -0.170702193%
+  return9m: -3.0578189695%
+  return1y: 0.758077546%
+  return2y: 10.369860888018%
+  return3y: 59.371517852817%
+  return4y: 103.271129099531%
+  return5y: 142.329119052661%
+  return10y: 305.602391997903%
+  return_since_created: 552.987445%
   cat_return1y: 2.186654493631268%
   cat_return3y: 56.03453242841776%
   cat_return5y: 106.54761965695809%
