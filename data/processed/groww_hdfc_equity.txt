@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-07-30T07:30:45.672908+00:00
+Downloaded: 2026-07-31T07:46:57.739086+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      2262.888
-  NAV Date:         29-Jul-2026
+  Current NAV:      2265.521
+  NAV Date:         30-Jul-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -73,16 +73,16 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 34.19%
-  return6m: 18.07%
-  return9m: 7.5%
-  return1y: 6.22%
-  return2y: 6.61%
-  return3y: 11.05%
-  return4y: 15.02%
-  return5y: 16.53%
-  return10y: 17.74%
-  return_since_created: 16.94%
+  return3m: 34.49%
+  return6m: 18.36%
+  return9m: 7.75%
+  return1y: 6.42%
+  return2y: 6.71%
+  return3y: 11.11%
+  return4y: 15.06%
+  return5y: 16.56%
+  return10y: 17.75%
+  return_since_created: 16.95%
 
 TOP HOLDINGS
 ----------------------------------------
