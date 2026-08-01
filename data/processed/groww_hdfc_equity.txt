@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-07-31T07:46:57.739086+00:00
+Downloaded: 2026-08-01T07:25:17.513673+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      2265.521
-  NAV Date:         30-Jul-2026
+  Current NAV:      2267.177
+  NAV Date:         31-Jul-2026
 
 COSTS & FEES
 ----------------------------------------
