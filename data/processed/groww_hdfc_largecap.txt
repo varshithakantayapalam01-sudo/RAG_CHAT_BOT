@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-08-05T07:35:23.385105+00:00
+Downloaded: 2026-08-06T07:35:07.394332+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1258.938
-  NAV Date:         04-Aug-2026
+  Current NAV:      1259.647
+  NAV Date:         05-Aug-2026
 
 COSTS & FEES
 ----------------------------------------

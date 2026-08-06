@@ -13,8 +13,8 @@
   "isin": "INF179K01YV8",
   "description": "The scheme seeks to provide long-term capital appreciation/income by investing predominantly in Large-Cap companies.",
   "nav": {
-    "current_nav": 1258.938,
-    "nav_date": "04-Aug-2026"
+    "current_nav": 1259.647,
+    "nav_date": "05-Aug-2026"
   },
   "expense_ratio": "1.02",
   "exit_load": "Exit load of 1% if redeemed within 1 year",
@@ -265,9 +265,9 @@
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 3.23,
-      "stat_3y": 11.63,
-      "stat_5y": 13.06,
+      "stat_1y": 3.49,
+      "stat_3y": 11.64,
+      "stat_5y": 13.08,
       "stat_all": 13.08,
       "title": "Fund Returns"
     },
@@ -281,9 +281,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 46,
+      "stat_1y": 47,
       "stat_3y": 42,
-      "stat_5y": 15,
+      "stat_5y": 16,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -298,8 +298,8 @@
       "sub_sub_category": "",
       "aum": 1847.3812,
       "mean_return": 11.44,
-      "return3y": 15.93,
-      "return1y": 8.51,
+      "return3y": 16,
+      "return1y": 9.05,
       "min_investment": 1000,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -337,8 +337,8 @@
       "sub_sub_category": "",
       "aum": 2060.8813,
       "mean_return": 12.98,
-      "return3y": 14.62,
-      "return1y": 5.37,
+      "return3y": 14.74,
+      "return1y": 6.11,
       "min_investment": 1000,
       "groww_rating": 4,
       "risk_rating": 6,
@@ -377,7 +377,7 @@
       "aum": 53227.0449,
       "mean_return": 12.09,
       "return3y": 13.69,
-      "return1y": 2.71,
+      "return1y": 2.93,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -415,8 +415,8 @@
       "sub_sub_category": "",
       "aum": 79420.73776911,
       "mean_return": 11.28,
-      "return3y": 13.42,
-      "return1y": 1.75,
+      "return3y": 13.45,
+      "return1y": 2.08,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -454,8 +454,8 @@
       "sub_sub_category": "",
       "aum": 1434.26840001,
       "mean_return": 12.63,
-      "return3y": 12.14,
-      "return1y": 4.31,
+      "return3y": 12.16,
+      "return1y": 4.68,
       "min_investment": 100,
       "groww_rating": 4,
       "risk_rating": 6,
