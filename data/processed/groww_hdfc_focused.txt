@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 Scheme: HDFC Focused Fund – Direct Growth
 Category: Focused / Flexi-Cap
-Downloaded: 2026-08-07T06:06:44.295874+00:00
+Downloaded: 2026-08-08T05:37:29.050288+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      271.896
-  NAV Date:         06-Aug-2026
+  Current NAV:      271.463
+  NAV Date:         07-Aug-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -72,15 +72,15 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 44.913078712857114%
-  return6m: 25.96747693833008%
-  return9m: 11.041885776002117%
-  return1y: 7.126493112669643%
-  return2y: 6.940547205403452%
-  return3y: 10.922447959331983%
-  return4y: 14.993177097502485%
-  return5y: 16.898339640246178%
-  return10y: 17.59543469457873%
+  return3m: 41.19454447193691%
+  return6m: 24.743050244556297%
+  return9m: 10.450774557778677%
+  return1y: 6.7277001014027%
+  return2y: 6.749491575864269%
+  return3y: 10.788168033599439%
+  return4y: 14.887928890354003%
+  return5y: 16.813848624836915%
+  return10y: 17.557227496713274%
 
 TOP HOLDINGS
 ----------------------------------------
