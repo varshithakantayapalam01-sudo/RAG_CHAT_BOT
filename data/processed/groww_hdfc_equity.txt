@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-08-09T05:43:06.762459+00:00
+Downloaded: 2026-08-10T06:08:32.810770+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -54,19 +54,19 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.0730957691%
-  return1w: 2.6609618133%
-  return1m: 2.9731341494%
-  return3m: 6.0915769771%
-  return6m: 1.0458566188%
-  return9m: 0.046157967%
-  return1y: 5.2876562067%
-  return2y: 12.016721649555%
-  return3y: 60.38763095473%
-  return4y: 101.860767011028%
-  return5y: 136.488210413222%
-  return10y: 355.233572611816%
-  return_since_created: 663.678101%
+  return1d: -0.0347754178%
+  return1w: 1.3066469887%
+  return1m: 2.1484157841%
+  return3m: 5.3579406954%
+  return6m: 1.2622058645%
+  return9m: 2.2930868467%
+  return1y: 7.1067298886%
+  return2y: 16.047465858525%
+  return3y: 63.429760740016%
+  return4y: 102.112376121746%
+  return5y: 135.44086713711%
+  return10y: 359.976568601926%
+  return_since_created: 673.656678%
   cat_return1y: 2.186654493631268%
   cat_return3y: 56.03453242841776%
   cat_return5y: 106.54761965695809%
