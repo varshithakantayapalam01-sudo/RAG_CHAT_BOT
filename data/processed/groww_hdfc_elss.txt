@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-08-13T06:11:34.738792+00:00
+Downloaded: 2026-08-14T06:09:32.331229+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,12 +25,12 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1518.989
-  NAV Date:         12-Aug-2026
+  Current NAV:      1516.288
+  NAV Date:         13-Aug-2026
 
 COSTS & FEES
 ----------------------------------------
-  Expense Ratio:    1.18
+  Expense Ratio:    1.19
   Exit Load:        Nil
   Stamp Duty:       0.005% (from July 1st, 2020)
 
@@ -72,15 +72,15 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 29.258348422426927%
-  return6m: 17.10085314610846%
-  return9m: 4.383642275684942%
-  return1y: 1.5376664482131863%
-  return2y: 2.831301868143358%
-  return3y: 7.238058930908384%
-  return4y: 12.07726918705374%
-  return5y: 13.870241957268231%
-  return10y: 15.106246611636143%
+  return3m: 26.527847793311466%
+  return6m: 16.03905007965267%
+  return9m: 3.843852608610675%
+  return1y: 1.1608452541346077%
+  return2y: 2.6401308210908954%
+  return3y: 7.101003318550725%
+  return4y: 11.967809000480232%
+  return5y: 13.78213243829634%
+  return10y: 15.06558186603475%
 
 TOP HOLDINGS
 ----------------------------------------
