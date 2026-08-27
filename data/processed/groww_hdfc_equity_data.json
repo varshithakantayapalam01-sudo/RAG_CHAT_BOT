@@ -13,8 +13,8 @@
   "isin": "INF179K01UT0",
   "description": "The scheme seeks to generate capital appreciation / income from a portfolio, predominantly invested in equity & equity related instruments.",
   "nav": {
-    "current_nav": 2297.867,
-    "nav_date": "25-Aug-2026"
+    "current_nav": 2301.233,
+    "nav_date": "26-Aug-2026"
   },
   "expense_ratio": "0.77",
   "exit_load": "Exit load of 1% if redeemed within 1 year\r\n",
@@ -45,19 +45,19 @@
   "return_stats": [
     {
       "scheme_code": "118955",
-      "return1d": 0.31,
-      "return1w": 0.71,
-      "return1m": 4.05,
-      "return3m": 6.05,
-      "return6m": 0.58,
+      "return1d": 0.15,
+      "return1w": 1.04,
+      "return1m": 4.2,
+      "return3m": 6.6,
+      "return6m": 0.65,
       "return9m": null,
-      "return1y": 4.81,
+      "return1y": 5.84,
       "return2y": null,
-      "return3y": 17.77,
+      "return3y": 17.81,
       "return4y": null,
-      "return5y": 19.13,
+      "return5y": 19.23,
       "return7y": null,
-      "return10y": 16.42,
+      "return10y": 16.49,
       "return_default": 14.13,
       "mean_return": 11.26,
       "sharpe_ratio": 0.8464837836,
@@ -65,7 +65,7 @@
       "standard_deviation": 12.905072710996931,
       "risk_rating": 6,
       "risk": "Very High",
-      "return_since_created": 16.1681340939,
+      "return_since_created": 16.1770924543,
       "cat_return3m": 2.990447071672807,
       "cat_return6m": -0.37038952203653847,
       "cat_return1y": 2.186654493631266,
@@ -73,7 +73,7 @@
       "cat_return5y": 15.612299390110422,
       "cat_return10y": 13.476536766511122,
       "cat_return_since_launch": null,
-      "rank3m": 28,
+      "rank3m": 27,
       "rank6m": 59,
       "rank1yr": 31,
       "rank3yr": 11,
@@ -107,16 +107,16 @@
     "return1d": null,
     "return1w": null,
     "return1m": null,
-    "return3m": 29.83019996085764,
-    "return6m": 22.935912155136446,
-    "return9m": 11.437061803672666,
-    "return1y": 8.181608480370937,
-    "return2y": 7.702233939717249,
-    "return3y": 11.165308313380217,
-    "return4y": 15.064795208397324,
-    "return5y": 16.59768468286517,
+    "return3m": 30.471166221292734,
+    "return6m": 23.331384691754465,
+    "return9m": 11.758833601574691,
+    "return1y": 8.436217423278919,
+    "return2y": 7.831724293306388,
+    "return3y": 11.24665414014337,
+    "return4y": 15.120944094576066,
+    "return5y": 16.640457349969072,
     "return7y": null,
-    "return10y": 17.82944929203582,
+    "return10y": 17.848302288401268,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -222,70 +222,70 @@
     {
       "name": "ICICI Bank Ltd",
       "sector": "Financial",
-      "percentage": 9.18,
-      "instrument_type": ""
-    },
-    {
-      "name": "Axis Bank Ltd",
-      "sector": "Financial",
-      "percentage": 6.84,
+      "percentage": 9.20908573,
       "instrument_type": ""
     },
     {
       "name": "HDFC Bank Ltd",
       "sector": "Financial",
-      "percentage": 6.77,
+      "percentage": 6.10806706,
+      "instrument_type": ""
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "Financial",
+      "percentage": 6.00729524,
       "instrument_type": ""
     },
     {
       "name": "State Bank of India",
       "sector": "Financial",
-      "percentage": 4.3,
+      "percentage": 4.13604597,
       "instrument_type": ""
     },
     {
       "name": "SBI Life Insurance Company Ltd",
       "sector": "Financial",
-      "percentage": 3.47,
-      "instrument_type": ""
-    },
-    {
-      "name": "Larsen & Toubro Ltd",
-      "sector": "Industrials",
-      "percentage": 3.45,
-      "instrument_type": ""
-    },
-    {
-      "name": "Interglobe Aviation Ltd",
-      "sector": "Industrials",
-      "percentage": 3.26,
-      "instrument_type": ""
-    },
-    {
-      "name": "Kotak Mahindra Bank Ltd",
-      "sector": "Financial",
-      "percentage": 3.26,
-      "instrument_type": ""
-    },
-    {
-      "name": "Repo",
-      "sector": "Unspecified",
-      "percentage": 3.18,
+      "percentage": 3.55715029,
       "instrument_type": ""
     },
     {
       "name": "Zomato Ltd",
       "sector": "Technology",
-      "percentage": 3.05,
+      "percentage": 3.36133385,
+      "instrument_type": ""
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "Industrials",
+      "percentage": 3.15791178,
+      "instrument_type": ""
+    },
+    {
+      "name": "Kotak Mahindra Bank Ltd",
+      "sector": "Financial",
+      "percentage": 3.11743332,
+      "instrument_type": ""
+    },
+    {
+      "name": "Repo",
+      "sector": "Unspecified",
+      "percentage": 3.09919848,
+      "instrument_type": ""
+    },
+    {
+      "name": "Interglobe Aviation Ltd",
+      "sector": "Industrials",
+      "percentage": 3.01832797,
       "instrument_type": ""
     }
   ],
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": 4.81,
-      "stat_3y": 17.77,
-      "stat_5y": 19.13,
+      "stat_1y": 5.84,
+      "stat_3y": 17.81,
+      "stat_5y": 19.23,
       "stat_all": 14.13,
       "title": "Fund Returns"
     },
@@ -316,8 +316,8 @@
       "sub_sub_category": "",
       "aum": 2786.3965,
       "mean_return": null,
-      "return3y": 22.19,
-      "return1y": 14.63,
+      "return3y": 22.2,
+      "return1y": 16.68,
       "min_investment": 5000,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -355,8 +355,8 @@
       "sub_sub_category": "",
       "aum": 1467.29900562,
       "mean_return": null,
-      "return3y": 20.09,
-      "return1y": 14.62,
+      "return3y": 20.15,
+      "return1y": 16.36,
       "min_investment": 5000,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -394,8 +394,8 @@
       "sub_sub_category": "",
       "aum": 110736.41185,
       "mean_return": 11.26,
-      "return3y": 17.77,
-      "return1y": 4.81,
+      "return3y": 17.81,
+      "return1y": 5.84,
       "min_investment": 100,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -433,8 +433,8 @@
       "sub_sub_category": "",
       "aum": 148429.00447496,
       "mean_return": 14.11,
-      "return3y": 14.4,
-      "return1y": -1.26,
+      "return3y": 14.56,
+      "return1y": -0.59,
       "min_investment": 1000,
       "groww_rating": 5,
       "risk_rating": 6,
@@ -455,7 +455,7 @@
       "scheme_type": "Growth",
       "logo_url": "https://assets-netstorage.groww.in/mf-assets/logos/ppfas_groww.png",
       "groww_scheme_code": "INF879O01027",
-      "expense_ratio": "0.68",
+      "expense_ratio": "0.69",
       "swp_frequencies": null,
       "tag": null,
       "sub_tag": null,
@@ -472,8 +472,8 @@
       "sub_sub_category": "",
       "aum": 19509.44212145,
       "mean_return": 7.11,
-      "return3y": 13.54,
-      "return1y": -0.19,
+      "return3y": 13.44,
+      "return1y": 0.92,
       "min_investment": 5000,
       "groww_rating": 4,
       "risk_rating": 6,

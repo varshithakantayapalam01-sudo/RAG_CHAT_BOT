@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-08-26T05:26:30.675207+00:00
+Downloaded: 2026-08-27T16:01:52.501124+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      237.629
-  NAV Date:         25-Aug-2026
+  Current NAV:      237.356
+  NAV Date:         26-Aug-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -72,28 +72,28 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 34.81469312310747%
-  return6m: 31.860984533768587%
-  return9m: 19.56324317179166%
-  return1y: 15.921990730841129%
-  return2y: 12.358792420749124%
-  return3y: 13.985053942507603%
-  return4y: 18.731537765431778%
-  return5y: 20.119897928957847%
-  return10y: 20.360593608233586%
+  return3m: 33.082033728659376%
+  return6m: 30.96884052668657%
+  return9m: 19.083734015073844%
+  return1y: 15.586645221644035%
+  return2y: 12.203595214508239%
+  return3y: 13.879165846576758%
+  return4y: 18.646187103474897%
+  return5y: 20.051568515668578%
+  return10y: 20.329868946336354%
 
 TOP HOLDINGS
 ----------------------------------------
-   1. Repo (Unspecified) - 8.11%
-   2. The Federal Bank Ltd (Financial) - 4.18%
-   3. Max Financial Services Ltd (Financial) - 4.1%
-   4. AU Small Finance Bank Ltd (Financial) - 4.08%
-   5. Balkrishna Industries Ltd (Consumer Discretionary) - 3.1%
-   6. Fortis Healthcare Ltd (Healthcare) - 3.07%
-   7. Ipca Laboratories Ltd (Healthcare) - 3.05%
-   8. Indian Bank (Financial) - 2.98%
-   9. Glenmark Pharmaceuticals Ltd (Healthcare) - 2.93%
-  10. Vishal Mega Mart Ltd. (Consumer Staples) - 2.64%
+   1. Repo (Unspecified) - 6.92%
+   2. The Federal Bank Ltd (Financial) - 4.36%
+   3. AU Small Finance Bank Ltd (Financial) - 3.96%
+   4. Max Financial Services Ltd (Financial) - 3.72%
+   5. Balkrishna Industries Ltd (Consumer Discretionary) - 3.37%
+   6. Ipca Laboratories Ltd (Healthcare) - 3.01%
+   7. Indian Bank (Financial) - 2.93%
+   8. Fortis Healthcare Ltd (Healthcare) - 2.91%
+   9. Glenmark Pharmaceuticals Ltd (Healthcare) - 2.85%
+  10. Coforge Ltd (Technology) - 2.56%
 
 FUND MANAGER DETAILS
 ----------------------------------------

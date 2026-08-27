@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-08-26T05:26:30.675207+00:00
+Downloaded: 2026-08-27T16:01:52.501124+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1249.864
-  NAV Date:         25-Aug-2026
+  Current NAV:      1247.076
+  NAV Date:         26-Aug-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -72,28 +72,28 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 21.30667809638095%
-  return6m: 16.49085877228094%
-  return9m: 6.205944521739229%
-  return1y: 4.103334749907239%
-  return2y: 3.150272758597375%
-  return3y: 5.357205571673333%
-  return4y: 9.065323157893646%
-  return5y: 10.599526560420605%
-  return10y: 13.177075555937057%
+  return3m: 19.11634051520632%
+  return6m: 15.386628254589308%
+  return9m: 5.574805288109094%
+  return1y: 3.641962086980527%
+  return2y: 2.9193079978396352%
+  return3y: 5.197224535923385%
+  return4y: 8.939496881180084%
+  return5y: 10.498090725560955%
+  return10y: 13.128835311137282%
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.73%
-   2. HDFC Bank Ltd (Financial) - 7.92%
-   3. Bharti Airtel Ltd (Technology) - 5.66%
-   4. Kotak Mahindra Bank Ltd (Financial) - 5.46%
-   5. Reliance Industries Ltd (Energy & Utilities) - 4.96%
-   6. Titan Company Ltd (Consumer Discretionary) - 4.65%
-   7. Torrent Pharmaceuticals Ltd (Healthcare) - 3.77%
-   8. Axis Bank Ltd (Financial) - 3.69%
-   9. Bajaj Finserv Ltd (Financial) - 3%
-  10. Lupin Ltd (Healthcare) - 2.86%
+   1. ICICI Bank Ltd (Financial) - 9.86%
+   2. HDFC Bank Ltd (Financial) - 7.21%
+   3. Bharti Airtel Ltd (Technology) - 5.85%
+   4. Kotak Mahindra Bank Ltd (Financial) - 5.28%
+   5. Titan Company Ltd (Consumer Discretionary) - 5%
+   6. Reliance Industries Ltd (Energy & Utilities) - 4.86%
+   7. Torrent Pharmaceuticals Ltd (Healthcare) - 4.05%
+   8. Bajaj Finserv Ltd (Financial) - 3.32%
+   9. Axis Bank Ltd (Financial) - 3.28%
+  10. Repo (Unspecified) - 3.08%
 
 FUND MANAGER DETAILS
 ----------------------------------------

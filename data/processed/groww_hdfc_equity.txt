@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-08-26T05:26:30.675207+00:00
+Downloaded: 2026-08-27T16:01:52.501124+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      2297.867
-  NAV Date:         25-Aug-2026
+  Current NAV:      2301.233
+  NAV Date:         26-Aug-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -73,28 +73,28 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 29.83019996085764%
-  return6m: 22.935912155136446%
-  return9m: 11.437061803672666%
-  return1y: 8.181608480370937%
-  return2y: 7.702233939717249%
-  return3y: 11.165308313380217%
-  return4y: 15.064795208397324%
-  return5y: 16.59768468286517%
-  return10y: 17.82944929203582%
+  return3m: 30.471166221292734%
+  return6m: 23.331384691754465%
+  return9m: 11.758833601574691%
+  return1y: 8.436217423278919%
+  return2y: 7.831724293306388%
+  return3y: 11.24665414014337%
+  return4y: 15.120944094576066%
+  return5y: 16.640457349969072%
+  return10y: 17.848302288401268%
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.18%
-   2. Axis Bank Ltd (Financial) - 6.84%
-   3. HDFC Bank Ltd (Financial) - 6.77%
-   4. State Bank of India (Financial) - 4.3%
-   5. SBI Life Insurance Company Ltd (Financial) - 3.47%
-   6. Larsen & Toubro Ltd (Industrials) - 3.45%
-   7. Interglobe Aviation Ltd (Industrials) - 3.26%
-   8. Kotak Mahindra Bank Ltd (Financial) - 3.26%
-   9. Repo (Unspecified) - 3.18%
-  10. Zomato Ltd (Technology) - 3.05%
+   1. ICICI Bank Ltd (Financial) - 9.20908573%
+   2. HDFC Bank Ltd (Financial) - 6.10806706%
+   3. Axis Bank Ltd (Financial) - 6.00729524%
+   4. State Bank of India (Financial) - 4.13604597%
+   5. SBI Life Insurance Company Ltd (Financial) - 3.55715029%
+   6. Zomato Ltd (Technology) - 3.36133385%
+   7. Larsen & Toubro Ltd (Industrials) - 3.15791178%
+   8. Kotak Mahindra Bank Ltd (Financial) - 3.11743332%
+   9. Repo (Unspecified) - 3.09919848%
+  10. Interglobe Aviation Ltd (Industrials) - 3.01832797%
 
 FUND MANAGER DETAILS
 ----------------------------------------
