@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-09-12T08:57:56.319888+00:00
+Downloaded: 2026-09-13T09:54:53.792772+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -84,16 +84,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.86%
-   2. HDFC Bank Ltd (Financial) - 7.21%
-   3. Bharti Airtel Ltd (Technology) - 5.85%
-   4. Kotak Mahindra Bank Ltd (Financial) - 5.28%
-   5. Titan Company Ltd (Consumer Discretionary) - 5%
-   6. Reliance Industries Ltd (Energy & Utilities) - 4.86%
-   7. Torrent Pharmaceuticals Ltd (Healthcare) - 4.05%
-   8. Bajaj Finserv Ltd (Financial) - 3.32%
-   9. Axis Bank Ltd (Financial) - 3.28%
-  10. Repo (Unspecified) - 3.08%
+   1. ICICI Bank Ltd (Financial) - 10.05%
+   2. HDFC Bank Ltd (Financial) - 6.88%
+   3. Bharti Airtel Ltd (Technology) - 6.23%
+   4. Kotak Mahindra Bank Ltd (Financial) - 5.71%
+   5. Titan Company Ltd (Consumer Discretionary) - 5.27%
+   6. Reliance Industries Ltd (Energy & Utilities) - 4.78%
+   7. Torrent Pharmaceuticals Ltd (Healthcare) - 4.04%
+   8. Axis Bank Ltd (Financial) - 3.49%
+   9. Bajaj Finserv Ltd (Financial) - 3.33%
+  10. Bajaj Auto Ltd (Consumer Discretionary) - 2.93%
 
 FUND MANAGER DETAILS
 ----------------------------------------

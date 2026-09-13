@@ -73,12 +73,12 @@
       "cat_return5y": 15.612299390110422,
       "cat_return10y": 13.476536766511122,
       "cat_return_since_launch": null,
-      "rank3m": 34,
-      "rank6m": 47,
+      "rank3m": 35,
+      "rank6m": 50,
       "rank1yr": 34,
       "rank3yr": 11,
       "rank5yr": 2,
-      "rank10yr": 2,
+      "rank10yr": 3,
       "rank_count3m": null,
       "rank_count6m": null,
       "rank_count1yr": null,
@@ -222,61 +222,61 @@
     {
       "name": "ICICI Bank Ltd",
       "sector": "Financial",
-      "percentage": 9.20908573,
-      "instrument_type": ""
-    },
-    {
-      "name": "HDFC Bank Ltd",
-      "sector": "Financial",
-      "percentage": 6.10806706,
+      "percentage": 9.19386133,
       "instrument_type": ""
     },
     {
       "name": "Axis Bank Ltd",
       "sector": "Financial",
-      "percentage": 6.00729524,
+      "percentage": 6.19129075,
+      "instrument_type": ""
+    },
+    {
+      "name": "HDFC Bank Ltd",
+      "sector": "Financial",
+      "percentage": 5.71320661,
       "instrument_type": ""
     },
     {
       "name": "State Bank of India",
       "sector": "Financial",
-      "percentage": 4.13604597,
-      "instrument_type": ""
-    },
-    {
-      "name": "SBI Life Insurance Company Ltd",
-      "sector": "Financial",
-      "percentage": 3.55715029,
+      "percentage": 4.15948016,
       "instrument_type": ""
     },
     {
       "name": "Zomato Ltd",
       "sector": "Technology",
-      "percentage": 3.36133385,
-      "instrument_type": ""
-    },
-    {
-      "name": "Larsen & Toubro Ltd",
-      "sector": "Industrials",
-      "percentage": 3.15791178,
+      "percentage": 3.38619644,
       "instrument_type": ""
     },
     {
       "name": "Kotak Mahindra Bank Ltd",
       "sector": "Financial",
-      "percentage": 3.11743332,
+      "percentage": 3.26523502,
       "instrument_type": ""
     },
     {
-      "name": "Repo",
-      "sector": "Unspecified",
-      "percentage": 3.09919848,
+      "name": "SBI Life Insurance Company Ltd",
+      "sector": "Financial",
+      "percentage": 3.18851623,
+      "instrument_type": ""
+    },
+    {
+      "name": "Larsen & Toubro Ltd",
+      "sector": "Industrials",
+      "percentage": 3.16096895,
       "instrument_type": ""
     },
     {
       "name": "Interglobe Aviation Ltd",
       "sector": "Industrials",
-      "percentage": 3.01832797,
+      "percentage": 2.97791986,
+      "instrument_type": ""
+    },
+    {
+      "name": "Maruti Suzuki India Ltd",
+      "sector": "Consumer Discretionary",
+      "percentage": 2.73511836,
       "instrument_type": ""
     }
   ],

@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-09-12T08:57:56.319888+00:00
+Downloaded: 2026-09-13T09:54:53.792772+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -85,16 +85,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.20908573%
-   2. HDFC Bank Ltd (Financial) - 6.10806706%
-   3. Axis Bank Ltd (Financial) - 6.00729524%
-   4. State Bank of India (Financial) - 4.13604597%
-   5. SBI Life Insurance Company Ltd (Financial) - 3.55715029%
-   6. Zomato Ltd (Technology) - 3.36133385%
-   7. Larsen & Toubro Ltd (Industrials) - 3.15791178%
-   8. Kotak Mahindra Bank Ltd (Financial) - 3.11743332%
-   9. Repo (Unspecified) - 3.09919848%
-  10. Interglobe Aviation Ltd (Industrials) - 3.01832797%
+   1. ICICI Bank Ltd (Financial) - 9.19386133%
+   2. Axis Bank Ltd (Financial) - 6.19129075%
+   3. HDFC Bank Ltd (Financial) - 5.71320661%
+   4. State Bank of India (Financial) - 4.15948016%
+   5. Zomato Ltd (Technology) - 3.38619644%
+   6. Kotak Mahindra Bank Ltd (Financial) - 3.26523502%
+   7. SBI Life Insurance Company Ltd (Financial) - 3.18851623%
+   8. Larsen & Toubro Ltd (Industrials) - 3.16096895%
+   9. Interglobe Aviation Ltd (Industrials) - 2.97791986%
+  10. Maruti Suzuki India Ltd (Consumer Discretionary) - 2.73511836%
 
 FUND MANAGER DETAILS
 ----------------------------------------

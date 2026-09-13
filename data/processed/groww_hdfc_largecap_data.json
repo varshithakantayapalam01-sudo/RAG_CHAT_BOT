@@ -75,9 +75,9 @@
       "cat_return_since_launch": null,
       "rank3m": 35,
       "rank6m": 55,
-      "rank1yr": 48,
+      "rank1yr": 47,
       "rank3yr": 44,
-      "rank5yr": 15,
+      "rank5yr": 14,
       "rank10yr": 14,
       "rank_count3m": null,
       "rank_count6m": null,
@@ -222,61 +222,61 @@
     {
       "name": "ICICI Bank Ltd",
       "sector": "Financial",
-      "percentage": 9.86,
+      "percentage": 10.05,
       "instrument_type": ""
     },
     {
       "name": "HDFC Bank Ltd",
       "sector": "Financial",
-      "percentage": 7.21,
+      "percentage": 6.88,
       "instrument_type": ""
     },
     {
       "name": "Bharti Airtel Ltd",
       "sector": "Technology",
-      "percentage": 5.85,
+      "percentage": 6.23,
       "instrument_type": ""
     },
     {
       "name": "Kotak Mahindra Bank Ltd",
       "sector": "Financial",
-      "percentage": 5.28,
+      "percentage": 5.71,
       "instrument_type": ""
     },
     {
       "name": "Titan Company Ltd",
       "sector": "Consumer Discretionary",
-      "percentage": 5,
+      "percentage": 5.27,
       "instrument_type": ""
     },
     {
       "name": "Reliance Industries Ltd",
       "sector": "Energy & Utilities",
-      "percentage": 4.86,
+      "percentage": 4.78,
       "instrument_type": ""
     },
     {
       "name": "Torrent Pharmaceuticals Ltd",
       "sector": "Healthcare",
-      "percentage": 4.05,
-      "instrument_type": ""
-    },
-    {
-      "name": "Bajaj Finserv Ltd",
-      "sector": "Financial",
-      "percentage": 3.32,
+      "percentage": 4.04,
       "instrument_type": ""
     },
     {
       "name": "Axis Bank Ltd",
       "sector": "Financial",
-      "percentage": 3.28,
+      "percentage": 3.49,
       "instrument_type": ""
     },
     {
-      "name": "Repo",
-      "sector": "Unspecified",
-      "percentage": 3.08,
+      "name": "Bajaj Finserv Ltd",
+      "sector": "Financial",
+      "percentage": 3.33,
+      "instrument_type": ""
+    },
+    {
+      "name": "Bajaj Auto Ltd",
+      "sector": "Consumer Discretionary",
+      "percentage": 2.93,
       "instrument_type": ""
     }
   ],
@@ -299,9 +299,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 48,
+      "stat_1y": 47,
       "stat_3y": 44,
-      "stat_5y": 15,
+      "stat_5y": 14,
       "stat_all": null,
       "title": "Rank Within Category"
     }

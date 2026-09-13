@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-09-12T08:57:56.319888+00:00
+Downloaded: 2026-09-13T09:54:53.792772+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -84,16 +84,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. Repo (Unspecified) - 6.92%
-   2. The Federal Bank Ltd (Financial) - 4.36%
-   3. AU Small Finance Bank Ltd (Financial) - 3.96%
-   4. Max Financial Services Ltd (Financial) - 3.72%
-   5. Balkrishna Industries Ltd (Consumer Discretionary) - 3.37%
-   6. Ipca Laboratories Ltd (Healthcare) - 3.01%
-   7. Indian Bank (Financial) - 2.93%
-   8. Fortis Healthcare Ltd (Healthcare) - 2.91%
-   9. Glenmark Pharmaceuticals Ltd (Healthcare) - 2.85%
-  10. Coforge Ltd (Technology) - 2.56%
+   1. Repo (Unspecified) - 6.91%
+   2. The Federal Bank Ltd (Financial) - 4.21%
+   3. AU Small Finance Bank Ltd (Financial) - 3.98%
+   4. Max Financial Services Ltd (Financial) - 3.79%
+   5. Ipca Laboratories Ltd (Healthcare) - 3.3%
+   6. Glenmark Pharmaceuticals Ltd (Healthcare) - 3.07%
+   7. Indian Bank (Financial) - 3.06%
+   8. Balkrishna Industries Ltd (Consumer Discretionary) - 3.02%
+   9. Coforge Ltd (Technology) - 2.86%
+  10. Fortis Healthcare Ltd (Healthcare) - 2.69%
 
 FUND MANAGER DETAILS
 ----------------------------------------
