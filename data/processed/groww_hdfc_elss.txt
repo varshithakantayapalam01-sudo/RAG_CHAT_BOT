@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-09-13T09:54:53.792772+00:00
+Downloaded: 2026-09-14T10:14:02.725496+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -53,19 +53,19 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -0.0746201173%
-  return1w: -1.3929953631%
-  return1m: -2.1330516731%
-  return3m: 4.8979485643%
-  return6m: -0.4527661778%
-  return9m: -5.5815089809%
-  return1y: -2.1454416171%
-  return2y: 0.520803853234%
-  return3y: 47.300024685262%
-  return4y: 78.829668505174%
-  return5y: 98.266771751077%
-  return10y: 250.031324424838%
-  return_since_created: 505.39866%
+  return1d: -0.3935449094%
+  return1w: -2.0193982897%
+  return1m: -3.7844263919%
+  return3m: 2.8897567514%
+  return6m: 0.4083915008%
+  return9m: -7.011826019%
+  return1y: -5.0485522668%
+  return2y: -0.94188352307%
+  return3y: 41.333000706831%
+  return4y: 72.153353834846%
+  return5y: 92.879208349333%
+  return10y: 236.797185169141%
+  return_since_created: 493.17325%
   cat_return1y: 2.4219756725166297%
   cat_return3y: 57.51961187822414%
   cat_return5y: 114.41805749073635%
