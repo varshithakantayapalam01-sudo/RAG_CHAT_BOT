@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-09-20T09:32:53.352451+00:00
+Downloaded: 2026-09-21T10:19:47.946487+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -53,19 +53,19 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -0.4476774305%
-  return1w: -1.6970466869%
-  return1m: -2.7385531599%
-  return3m: 6.3617914303%
-  return6m: 8.4435310936%
-  return9m: 4.0523955203%
-  return1y: 7.0257350382%
-  return2y: 10.440991944521%
-  return3y: 57.871568426097%
-  return4y: 111.836412239686%
-  return5y: 139.495466677744%
-  return10y: 390.008712097065%
-  return_since_created: 1126.676951%
+  return1d: 0.8291577709%
+  return1w: 0.3512530193%
+  return1m: -1.8908480411%
+  return3m: 2.5630456943%
+  return6m: 10.39485171%
+  return9m: 4.1800223295%
+  return1y: 5.990848841%
+  return2y: 10.281215598625%
+  return3y: 61.152236436186%
+  return4y: 113.358595637181%
+  return5y: 137.395363151415%
+  return10y: 398.122995458165%
+  return_since_created: 1130.985691%
   cat_return1y: 1.9589569430918718%
   cat_return3y: 79.90065019299995%
   cat_return5y: 165.0775599907438%
