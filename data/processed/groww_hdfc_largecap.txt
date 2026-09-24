@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-09-23T09:40:14.086883+00:00
+Downloaded: 2026-09-24T09:39:20.057780+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1203.457
-  NAV Date:         22-Sep-2026
+  Current NAV:      1207.495
+  NAV Date:         23-Sep-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -53,38 +53,38 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -0.24%
-  return1w: 1.12%
-  return1m: -3.35%
-  return3m: -0.99%
-  return6m: 4.8%
-  return9m: -5.86%
-  return1y: -3.45%
-  return2y: -7.05%
-  return3y: 29.98%
-  return4y: 56.02%
-  return5y: 67.78%
-  return7y: 142.94%
-  return10y: 213.17%
-  return_since_created: 425.66%
-  cat_return3m: -1.83%
-  cat_return6m: 5.49%
-  cat_return1y: -2.93%
-  cat_return3y: 34.14%
-  cat_return5y: 52.34%
-  cat_return10y: 200.43%
-  cat_return_since_launch: 183.15%
+  return1d: 0.34%
+  return1w: 1.27%
+  return1m: -3.02%
+  return3m: 0.28%
+  return6m: 8.18%
+  return9m: -5.66%
+  return1y: -3.09%
+  return2y: -7.3%
+  return3y: 30.41%
+  return4y: 59.28%
+  return5y: 65.65%
+  return7y: 138.02%
+  return10y: 215.85%
+  return_since_created: 427.42%
+  cat_return3m: -0.16%
+  cat_return6m: 9.25%
+  cat_return1y: -2.17%
+  cat_return3y: 34.93%
+  cat_return5y: 51.08%
+  cat_return10y: 203.03%
+  cat_return_since_launch: 184.79%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: -18.79%
-  return6m: 2.72%
-  return9m: -1.98%
-  return1y: -3.05%
-  return2y: -0.27%
-  return3y: 2.37%
-  return4y: 6.75%
-  return5y: 8.8%
+  return3m: -17.61%
+  return6m: 3.01%
+  return9m: -1.73%
+  return1y: -2.85%
+  return2y: -0.18%
+  return3y: 2.42%
+  return4y: 6.78%
+  return5y: 8.81%
   return10y: 12.35%
   return_since_created: 12.71%
 
