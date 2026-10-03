@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-10-02T10:49:47.886640+00:00
+Downloaded: 2026-10-03T10:09:49.037817+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -68,7 +68,7 @@ LUMPSUM RETURNS
   return10y: 207.53%
   return_since_created: 403.15%
   cat_return3m: -5.11%
-  cat_return6m: 3.54%
+  cat_return6m: 3.53%
   cat_return1y: -4.94%
   cat_return3y: 29.08%
   cat_return5y: 46.84%
