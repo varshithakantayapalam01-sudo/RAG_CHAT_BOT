@@ -66,9 +66,9 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 14.35,
-      "cat_return3m": -2.78,
+      "cat_return3m": -2.79,
       "cat_return6m": 9.85,
-      "cat_return1y": 0.6,
+      "cat_return1y": 0.59,
       "cat_return3y": 11.63,
       "cat_return5y": 10.67,
       "cat_return10y": 13.51,
@@ -299,8 +299,8 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 20,
-      "stat_3y": 6,
+      "stat_1y": 21,
+      "stat_3y": 7,
       "stat_5y": 1,
       "stat_all": null,
       "title": "Rank Within Category"
