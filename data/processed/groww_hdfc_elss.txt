@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-10-05T11:58:06.149919+00:00
+Downloaded: 2026-10-06T11:37:52.336680+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1405.488
-  NAV Date:         01-Oct-2026
+  Current NAV:      1407.541
+  NAV Date:         05-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -53,38 +53,38 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -0.81%
-  return1w: -2.52%
-  return1m: -6.58%
-  return3m: -4.83%
-  return6m: 2.06%
-  return9m: -11.14%
-  return1y: -8.47%
-  return2y: -7.48%
-  return3y: 37.98%
-  return4y: 70.53%
-  return5y: 84.07%
-  return7y: 173.64%
-  return10y: 232.12%
-  return_since_created: 470.38%
-  cat_return3m: -3.63%
-  cat_return6m: 6.84%
-  cat_return1y: -1.16%
-  cat_return3y: 35.87%
-  cat_return5y: 65.34%
-  cat_return10y: 249.25%
-  cat_return_since_launch: 341.13%
+  return1d: 0.15%
+  return1w: -1.36%
+  return1m: -5.65%
+  return3m: -5.62%
+  return6m: 2.03%
+  return9m: -11.53%
+  return1y: -8.59%
+  return2y: -4.74%
+  return3y: 39.06%
+  return4y: 68.79%
+  return5y: 81.44%
+  return7y: 176.74%
+  return10y: 222.91%
+  return_since_created: 471.21%
+  cat_return3m: -3.96%
+  cat_return6m: 7.21%
+  cat_return1y: -1.2%
+  cat_return3y: 37.1%
+  cat_return5y: 63.4%
+  cat_return10y: 242.52%
+  cat_return_since_launch: 342.82%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: -47.13%
-  return6m: -18.27%
-  return9m: -12.36%
-  return1y: -12.8%
-  return2y: -4.87%
-  return3y: 0.34%
-  return4y: 6.77%
-  return5y: 9.83%
+  return3m: -41.9%
+  return6m: -16.86%
+  return9m: -11.6%
+  return1y: -12.23%
+  return2y: -4.67%
+  return3y: 0.44%
+  return4y: 6.81%
+  return5y: 9.85%
   return10y: 13.35%
   return_since_created: 13.33%
 
