@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-10-09T11:36:34.893691+00:00
+Downloaded: 2026-10-10T10:54:02.883682+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      2128.253
-  NAV Date:         08-Oct-2026
+  Current NAV:      2152.467
+  NAV Date:         09-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -37,7 +37,7 @@ COSTS & FEES
 
 FUND SIZE
 ----------------------------------------
-  AUM:              113,606.47 Cr
+  AUM:              108,546.98 Cr
   Turnover:         29%
 
 MINIMUM INVESTMENT
@@ -54,27 +54,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -1.84%
-  return1w: -1.02%
-  return1m: -5.85%
-  return3m: -3.4%
-  return6m: -0.8%
-  return9m: -6.71%
-  return1y: -4.25%
-  return2y: 3.01%
-  return3y: 48.21%
-  return4y: 82.62%
-  return5y: 100.62%
-  return7y: 226.84%
-  return10y: 304.66%
-  return_since_created: 616.88%
-  cat_return3m: -2.75%
-  cat_return6m: 2.93%
-  cat_return1y: -1.31%
-  cat_return3y: 36.98%
-  cat_return5y: 60.07%
-  cat_return10y: 233.03%
-  cat_return_since_launch: 167.75%
+  return1d: 1.14%
+  return1w: 0.11%
+  return1m: -4.12%
+  return3m: -2.97%
+  return6m: 0.96%
+  return9m: -4.94%
+  return1y: -3.52%
+  return2y: 3.46%
+  return3y: 50.89%
+  return4y: 84.7%
+  return5y: 102.9%
+  return7y: 224.76%
+  return10y: 309.26%
+  return_since_created: 625.04%
+  cat_return3m: -2.68%
+  cat_return6m: 4.23%
+  cat_return1y: -0.81%
+  cat_return3y: 39.47%
+  cat_return5y: 61.49%
+  cat_return10y: 236.35%
+  cat_return_since_launch: 170.11%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
@@ -91,16 +91,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.19386133%
-   2. Axis Bank Ltd (Financial) - 6.19129075%
-   3. HDFC Bank Ltd (Financial) - 5.71320661%
-   4. State Bank of India (Financial) - 4.15948016%
-   5. Zomato Ltd (Technology) - 3.38619644%
-   6. Kotak Mahindra Bank Ltd (Financial) - 3.26523502%
-   7. SBI Life Insurance Company Ltd (Financial) - 3.18851623%
-   8. Larsen & Toubro Ltd (Industrials) - 3.16096895%
-   9. Interglobe Aviation Ltd (Industrials) - 2.97791986%
-  10. Maruti Suzuki India Ltd (Consumer Discretionary) - 2.73511836%
+   1. ICICI Bank Ltd (Financial) - 8.8%
+   2. Axis Bank Ltd (Financial) - 6.11%
+   3. HDFC Bank Ltd (Financial) - 6.03%
+   4. State Bank of India (Financial) - 3.94%
+   5. Zomato Ltd (Technology) - 3.46%
+   6. Kotak Mahindra Bank Ltd (Financial) - 3.4%
+   7. SBI Life Insurance Company Ltd (Financial) - 3.25%
+   8. Larsen & Toubro Ltd (Industrials) - 3.08%
+   9. Interglobe Aviation Ltd (Industrials) - 2.99%
+  10. Repo (Unspecified) - 2.81%
 
 FUND MANAGER DETAILS
 ----------------------------------------

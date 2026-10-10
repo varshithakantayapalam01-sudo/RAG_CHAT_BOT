@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-10-09T11:36:34.893691+00:00
+Downloaded: 2026-10-10T10:54:02.883682+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1392.881
-  NAV Date:         08-Oct-2026
+  Current NAV:      1410.196
+  NAV Date:         09-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -36,7 +36,7 @@ COSTS & FEES
 
 FUND SIZE
 ----------------------------------------
-  AUM:              15,991.78 Cr
+  AUM:              14,948.74 Cr
   Turnover:         32%
 
 MINIMUM INVESTMENT
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -1.66%
-  return1w: -0.9%
-  return1m: -5.78%
-  return3m: -5.3%
-  return6m: -4.46%
-  return9m: -11.72%
-  return1y: -9.89%
-  return2y: -5.48%
-  return3y: 37.24%
-  return4y: 66.71%
-  return5y: 77.36%
-  return7y: 176.72%
-  return10y: 220.91%
-  return_since_created: 465.26%
-  cat_return3m: -3.74%
-  cat_return6m: 0.61%
-  cat_return1y: -2.72%
-  cat_return3y: 34.64%
-  cat_return5y: 60.29%
-  cat_return10y: 239.5%
-  cat_return_since_launch: 336.95%
+  return1d: 1.24%
+  return1w: 0.33%
+  return1m: -3.83%
+  return3m: -4.59%
+  return6m: -2.59%
+  return9m: -9.75%
+  return1y: -9.06%
+  return2y: -4.96%
+  return3y: 39.82%
+  return4y: 68.79%
+  return5y: 79.57%
+  return7y: 175.51%
+  return10y: 224.9%
+  return_since_created: 472.29%
+  cat_return3m: -3.55%
+  cat_return6m: 2.03%
+  cat_return1y: -2.22%
+  cat_return3y: 37.05%
+  cat_return5y: 61.78%
+  cat_return10y: 242.77%
+  cat_return_since_launch: 341.18%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
@@ -90,16 +90,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.32%
-   2. HDFC Bank Ltd (Financial) - 7.36%
-   3. Axis Bank Ltd (Financial) - 6.5%
-   4. Maruti Suzuki India Ltd (Consumer Discretionary) - 4.66%
-   5. State Bank of India (Financial) - 4.64%
-   6. Kotak Mahindra Bank Ltd (Financial) - 4.59%
-   7. Bharti Airtel Ltd (Technology) - 4.29%
-   8. SBI Life Insurance Company Ltd (Financial) - 3.25%
-   9. HCL Technologies Ltd (Technology) - 2.93%
-  10. Hyundai Motor India Ltd. (Consumer Discretionary) - 2.76%
+   1. ICICI Bank Ltd (Financial) - 9.06%
+   2. HDFC Bank Ltd (Financial) - 7.87%
+   3. Axis Bank Ltd (Financial) - 6.56%
+   4. Kotak Mahindra Bank Ltd (Financial) - 4.88%
+   5. State Bank of India (Financial) - 4.49%
+   6. Bharti Airtel Ltd (Technology) - 4.45%
+   7. Maruti Suzuki India Ltd (Consumer Discretionary) - 4.4%
+   8. SBI Life Insurance Company Ltd (Financial) - 3.21%
+   9. HCL Technologies Ltd (Technology) - 2.94%
+  10. Hyundai Motor India Ltd. (Consumer Discretionary) - 2.72%
 
 FUND MANAGER DETAILS
 ----------------------------------------

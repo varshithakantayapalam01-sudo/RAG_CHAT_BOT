@@ -13,13 +13,13 @@
   "isin": "INF179K01YS4",
   "description": "The scheme seeks to generate capital appreciation / income from a portfolio, comprising predominantly of equity & equity related instruments.",
   "nav": {
-    "current_nav": 1392.881,
-    "nav_date": "08-Oct-2026"
+    "current_nav": 1410.196,
+    "nav_date": "09-Oct-2026"
   },
   "expense_ratio": "1.21",
   "exit_load": "Nil",
   "stamp_duty": "0.005% (from July 1st, 2020)",
-  "aum": 15991.7823,
+  "aum": 14948.7374,
   "min_investment": {
     "lumpsum": 500,
     "sip": 500,
@@ -45,12 +45,12 @@
   "return_stats": [
     {
       "scheme_code": "119060",
-      "return1d": -1.66,
-      "return1w": -0.9,
-      "return1m": -5.78,
-      "return3m": -5.3,
-      "return6m": -4.46,
-      "return9m": -11.72,
+      "return1d": 1.24,
+      "return1w": 0.33,
+      "return1m": -3.83,
+      "return3m": -4.59,
+      "return6m": -2.59,
+      "return9m": -9.75,
       "return1y": -9.89,
       "return2y": -2.78,
       "return3y": 11.1,
@@ -66,13 +66,13 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 13.4,
-      "cat_return3m": -3.67,
-      "cat_return6m": 6.84,
-      "cat_return1y": -2.57,
-      "cat_return3y": 10.2,
-      "cat_return5y": 10.03,
-      "cat_return10y": 13,
-      "cat_return_since_launch": 16.92,
+      "cat_return3m": -3.79,
+      "cat_return6m": 0.29,
+      "cat_return1y": -4.23,
+      "cat_return3y": 9.84,
+      "cat_return5y": 9.29,
+      "cat_return10y": 12.67,
+      "cat_return_since_launch": 16.83,
       "rank3m": 27,
       "rank6m": 35,
       "rank1yr": 35,
@@ -162,19 +162,19 @@
   },
   "simple_return": {
     "scheme_code": "119060",
-    "return1d": -1.66,
-    "return1w": -0.9,
-    "return1m": -5.78,
-    "return3m": -5.3,
-    "return6m": -4.46,
-    "return9m": -11.72,
-    "return1y": -9.89,
-    "return2y": -5.48,
-    "return3y": 37.24,
-    "return4y": 66.71,
-    "return5y": 77.36,
-    "return7y": 176.72,
-    "return10y": 220.91,
+    "return1d": 1.24,
+    "return1w": 0.33,
+    "return1m": -3.83,
+    "return3m": -4.59,
+    "return6m": -2.59,
+    "return9m": -9.75,
+    "return1y": -9.06,
+    "return2y": -4.96,
+    "return3y": 39.82,
+    "return4y": 68.79,
+    "return5y": 79.57,
+    "return7y": 175.51,
+    "return10y": 224.9,
     "return_default": null,
     "mean_return": null,
     "sharpe_ratio": null,
@@ -182,14 +182,14 @@
     "standard_deviation": null,
     "risk_rating": null,
     "risk": null,
-    "return_since_created": 465.26,
-    "cat_return3m": -3.74,
-    "cat_return6m": 0.61,
-    "cat_return1y": -2.72,
-    "cat_return3y": 34.64,
-    "cat_return5y": 60.29,
-    "cat_return10y": 239.5,
-    "cat_return_since_launch": 336.95,
+    "return_since_created": 472.29,
+    "cat_return3m": -3.55,
+    "cat_return6m": 2.03,
+    "cat_return1y": -2.22,
+    "cat_return3y": 37.05,
+    "cat_return5y": 61.78,
+    "cat_return10y": 242.77,
+    "cat_return_since_launch": 341.18,
     "rank3m": null,
     "rank6m": null,
     "rank1yr": null,
@@ -222,70 +222,70 @@
     {
       "name": "ICICI Bank Ltd",
       "sector": "Financial",
-      "percentage": 9.32,
+      "percentage": 9.06,
       "instrument_type": ""
     },
     {
       "name": "HDFC Bank Ltd",
       "sector": "Financial",
-      "percentage": 7.36,
+      "percentage": 7.87,
       "instrument_type": ""
     },
     {
       "name": "Axis Bank Ltd",
       "sector": "Financial",
-      "percentage": 6.5,
-      "instrument_type": ""
-    },
-    {
-      "name": "Maruti Suzuki India Ltd",
-      "sector": "Consumer Discretionary",
-      "percentage": 4.66,
-      "instrument_type": ""
-    },
-    {
-      "name": "State Bank of India",
-      "sector": "Financial",
-      "percentage": 4.64,
+      "percentage": 6.56,
       "instrument_type": ""
     },
     {
       "name": "Kotak Mahindra Bank Ltd",
       "sector": "Financial",
-      "percentage": 4.59,
+      "percentage": 4.88,
+      "instrument_type": ""
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "Financial",
+      "percentage": 4.49,
       "instrument_type": ""
     },
     {
       "name": "Bharti Airtel Ltd",
       "sector": "Technology",
-      "percentage": 4.29,
+      "percentage": 4.45,
+      "instrument_type": ""
+    },
+    {
+      "name": "Maruti Suzuki India Ltd",
+      "sector": "Consumer Discretionary",
+      "percentage": 4.4,
       "instrument_type": ""
     },
     {
       "name": "SBI Life Insurance Company Ltd",
       "sector": "Financial",
-      "percentage": 3.25,
+      "percentage": 3.21,
       "instrument_type": ""
     },
     {
       "name": "HCL Technologies Ltd",
       "sector": "Technology",
-      "percentage": 2.93,
+      "percentage": 2.94,
       "instrument_type": ""
     },
     {
       "name": "Hyundai Motor India Ltd.",
       "sector": "Consumer Discretionary",
-      "percentage": 2.76,
+      "percentage": 2.72,
       "instrument_type": ""
     }
   ],
   "stats": [
     {
       "type": "FUND_RETURN",
-      "stat_1y": -9.89,
-      "stat_3y": 11.1,
-      "stat_5y": 12.14,
+      "stat_1y": -9.06,
+      "stat_3y": 11.81,
+      "stat_5y": 12.41,
       "stat_all": 12.03,
       "title": "Fund Returns"
     },
@@ -299,7 +299,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 36,
+      "stat_1y": 35,
       "stat_3y": 11,
       "stat_5y": 5,
       "stat_all": null,

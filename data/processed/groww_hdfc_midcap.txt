@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-10-09T11:36:34.893691+00:00
+Downloaded: 2026-10-10T10:54:02.883682+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      217.078
-  NAV Date:         08-Oct-2026
+  Current NAV:      219.816
+  NAV Date:         09-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -36,7 +36,7 @@ COSTS & FEES
 
 FUND SIZE
 ----------------------------------------
-  AUM:              108,324.55 Cr
+  AUM:              101,856.06 Cr
   Turnover:         13%
 
 MINIMUM INVESTMENT
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -1.72%
-  return1w: -1.08%
-  return1m: -7.13%
-  return3m: -4.19%
-  return6m: 2.05%
-  return9m: -2.96%
-  return1y: 0.69%
-  return2y: 4.44%
-  return3y: 51.66%
-  return4y: 100.75%
-  return5y: 115.76%
-  return7y: 310.3%
-  return10y: 353.41%
-  return_since_created: 1054.73%
-  cat_return3m: -3.34%
-  cat_return6m: 5.04%
-  cat_return1y: 1.75%
-  cat_return3y: 50.62%
-  cat_return5y: 89.27%
-  cat_return10y: 328.33%
-  cat_return_since_launch: 327.31%
+  return1d: 1.26%
+  return1w: 0.17%
+  return1m: -5.36%
+  return3m: -3.98%
+  return6m: 3.4%
+  return9m: -1.13%
+  return1y: 1.51%
+  return2y: 4.87%
+  return3y: 55.61%
+  return4y: 103.28%
+  return5y: 118.48%
+  return7y: 312.21%
+  return10y: 359.13%
+  return_since_created: 1069.3%
+  cat_return3m: -3.63%
+  cat_return6m: 6.03%
+  cat_return1y: 2.22%
+  cat_return3y: 54.04%
+  cat_return5y: 91.29%
+  cat_return10y: 332.71%
+  cat_return_since_launch: 331.9%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
@@ -90,16 +90,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. Repo (Unspecified) - 6.91%
-   2. The Federal Bank Ltd (Financial) - 4.21%
-   3. AU Small Finance Bank Ltd (Financial) - 3.98%
-   4. Max Financial Services Ltd (Financial) - 3.79%
-   5. Ipca Laboratories Ltd (Healthcare) - 3.3%
+   1. Repo (Unspecified) - 8.37%
+   2. The Federal Bank Ltd (Financial) - 3.98%
+   3. AU Small Finance Bank Ltd (Financial) - 3.94%
+   4. Max Financial Services Ltd (Financial) - 3.52%
+   5. Ipca Laboratories Ltd (Healthcare) - 3.43%
    6. Glenmark Pharmaceuticals Ltd (Healthcare) - 3.07%
-   7. Indian Bank (Financial) - 3.06%
-   8. Balkrishna Industries Ltd (Consumer Discretionary) - 3.02%
-   9. Coforge Ltd (Technology) - 2.86%
-  10. Fortis Healthcare Ltd (Healthcare) - 2.69%
+   7. Balkrishna Industries Ltd (Consumer Discretionary) - 2.98%
+   8. Indian Bank (Financial) - 2.92%
+   9. Coforge Ltd (Technology) - 2.68%
+  10. Fortis Healthcare Ltd (Healthcare) - 2.4%
 
 FUND MANAGER DETAILS
 ----------------------------------------

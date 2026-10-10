@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-10-09T11:36:34.893691+00:00
+Downloaded: 2026-10-10T10:54:02.883682+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1140.674
-  NAV Date:         08-Oct-2026
+  Current NAV:      1152.946
+  NAV Date:         09-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -36,7 +36,7 @@ COSTS & FEES
 
 FUND SIZE
 ----------------------------------------
-  AUM:              39,933.37 Cr
+  AUM:              37,293.95 Cr
   Turnover:         18%
 
 MINIMUM INVESTMENT
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -1.78%
-  return1w: -0.98%
-  return1m: -6.37%
-  return3m: -6.38%
-  return6m: -3.79%
-  return9m: -11.18%
-  return1y: -7.54%
-  return2y: -8.71%
-  return3y: 23.14%
-  return4y: 50.19%
-  return5y: 53.23%
-  return7y: 136.68%
-  return10y: 197.97%
-  return_since_created: 398.23%
-  cat_return3m: -5.45%
-  cat_return6m: -3.3%
-  cat_return1y: -6.59%
-  cat_return3y: 27.7%
-  cat_return5y: 42.37%
-  cat_return10y: 190.03%
-  cat_return_since_launch: 169.27%
+  return1d: 1.08%
+  return1w: 0.09%
+  return1m: -4.65%
+  return3m: -6.08%
+  return6m: -1.79%
+  return9m: -9.21%
+  return1y: -6.83%
+  return2y: -7.73%
+  return3y: 25.3%
+  return4y: 51.8%
+  return5y: 54.88%
+  return7y: 135.19%
+  return10y: 201.18%
+  return_since_created: 403.6%
+  cat_return3m: -4.85%
+  cat_return6m: -1.63%
+  cat_return1y: -6.05%
+  cat_return3y: 30.24%
+  cat_return5y: 43.95%
+  cat_return10y: 193.36%
+  cat_return_since_launch: 172.28%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
@@ -90,16 +90,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 10.05%
-   2. HDFC Bank Ltd (Financial) - 6.88%
-   3. Bharti Airtel Ltd (Technology) - 6.23%
-   4. Kotak Mahindra Bank Ltd (Financial) - 5.71%
-   5. Titan Company Ltd (Consumer Discretionary) - 5.27%
-   6. Reliance Industries Ltd (Energy & Utilities) - 4.78%
-   7. Torrent Pharmaceuticals Ltd (Healthcare) - 4.04%
-   8. Axis Bank Ltd (Financial) - 3.49%
-   9. Bajaj Finserv Ltd (Financial) - 3.33%
-  10. Bajaj Auto Ltd (Consumer Discretionary) - 2.93%
+   1. ICICI Bank Ltd (Financial) - 9.79%
+   2. HDFC Bank Ltd (Financial) - 7.36%
+   3. Bharti Airtel Ltd (Technology) - 6.46%
+   4. Kotak Mahindra Bank Ltd (Financial) - 6.08%
+   5. Titan Company Ltd (Consumer Discretionary) - 5.07%
+   6. Reliance Industries Ltd (Energy & Utilities) - 4.76%
+   7. Torrent Pharmaceuticals Ltd (Healthcare) - 4.09%
+   8. Axis Bank Ltd (Financial) - 3.52%
+   9. Bajaj Finserv Ltd (Financial) - 3.05%
+  10. Bajaj Auto Ltd (Consumer Discretionary) - 2.81%
 
 FUND MANAGER DETAILS
 ----------------------------------------
