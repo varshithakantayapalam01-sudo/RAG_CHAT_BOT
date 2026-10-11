@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-10-10T10:54:02.883682+00:00
+Downloaded: 2026-10-11T11:08:40.795357+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -30,7 +30,7 @@ NAV DETAILS
 
 COSTS & FEES
 ----------------------------------------
-  Expense Ratio:    0.77
+  Expense Ratio:    0.75
   Exit Load:        Exit load of 1% if redeemed within 1 year
 
   Stamp Duty:       0.005% (from July 1st, 2020)
@@ -68,26 +68,26 @@ LUMPSUM RETURNS
   return7y: 224.76%
   return10y: 309.26%
   return_since_created: 625.04%
-  cat_return3m: -2.68%
-  cat_return6m: 4.23%
-  cat_return1y: -0.81%
-  cat_return3y: 39.47%
-  cat_return5y: 61.49%
-  cat_return10y: 236.35%
-  cat_return_since_launch: 170.11%
+  cat_return3m: -2.67%
+  cat_return6m: 4.29%
+  cat_return1y: -0.79%
+  cat_return3y: 39.58%
+  cat_return5y: 61.59%
+  cat_return10y: 236.57%
+  cat_return_since_launch: 170.34%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: -41.71%
-  return6m: -14.09%
-  return9m: -7.5%
-  return1y: -7.58%
-  return2y: -0.48%
-  return3y: 4.22%
-  return4y: 9.78%
-  return5y: 12.57%
-  return10y: 16.11%
-  return_since_created: 15.76%
+  return3m: -33.85%
+  return6m: -9.52%
+  return9m: -4.41%
+  return1y: -5.3%
+  return2y: 0.68%
+  return3y: 5%
+  return4y: 10.35%
+  return5y: 13.02%
+  return10y: 16.31%
+  return_since_created: 15.9%
 
 TOP HOLDINGS
 ----------------------------------------

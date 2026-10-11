@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-10-10T10:54:02.883682+00:00
+Downloaded: 2026-10-11T11:08:40.795357+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -30,7 +30,7 @@ NAV DETAILS
 
 COSTS & FEES
 ----------------------------------------
-  Expense Ratio:    0.76
+  Expense Ratio:    0.75
   Exit Load:        Exit load of 1% if redeemed within 1 year.
   Stamp Duty:       0.005% (from July 1st, 2020)
 
@@ -77,16 +77,16 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: -45.41%
-  return6m: -16.26%
-  return9m: -5.8%
-  return1y: -5%
-  return2y: 2.55%
-  return3y: 5.96%
-  return4y: 12.44%
-  return5y: 15.46%
-  return10y: 18.39%
-  return_since_created: 18.76%
+  return3m: -37.16%
+  return6m: -11.29%
+  return9m: -2.33%
+  return1y: -2.43%
+  return2y: 3.85%
+  return3y: 6.82%
+  return4y: 13.09%
+  return5y: 15.96%
+  return10y: 18.62%
+  return_since_created: 18.91%
 
 TOP HOLDINGS
 ----------------------------------------
