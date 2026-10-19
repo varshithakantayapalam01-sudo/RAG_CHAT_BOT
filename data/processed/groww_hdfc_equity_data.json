@@ -299,9 +299,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 35,
-      "stat_3y": 9,
-      "stat_5y": 3,
+      "stat_1y": 37,
+      "stat_3y": 10,
+      "stat_5y": 4,
       "stat_all": null,
       "title": "Rank Within Category"
     }
