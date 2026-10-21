@@ -19,7 +19,7 @@
   "expense_ratio": "0.74",
   "exit_load": "Exit load of 1% if redeemed within 1 year.",
   "stamp_duty": "0.005% (from July 1st, 2020)",
-  "aum": 101856.0604,
+  "aum": 101856.06,
   "min_investment": {
     "lumpsum": 100,
     "sip": 100,
@@ -66,13 +66,13 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 19.5,
-      "cat_return3m": -4.43,
-      "cat_return6m": 2.18,
-      "cat_return1y": 0.83,
-      "cat_return3y": 14.23,
-      "cat_return5y": 13.21,
-      "cat_return10y": 15.73,
-      "cat_return_since_launch": 18.18,
+      "cat_return3m": -5.13,
+      "cat_return6m": -0.05,
+      "cat_return1y": 0.19,
+      "cat_return3y": 13.98,
+      "cat_return5y": 13.19,
+      "cat_return10y": 15.56,
+      "cat_return_since_launch": 18.08,
       "rank3m": 14,
       "rank6m": 24,
       "rank1yr": 19,
@@ -99,7 +99,8 @@
       "vro_return4y": 19.67,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": 101856.06
     }
   ],
   "sip_return": {
@@ -158,7 +159,8 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null
+    "vro_row_number": null,
+    "aum": null
   },
   "simple_return": {
     "scheme_code": "118989",
@@ -216,7 +218,8 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null
+    "vro_row_number": null,
+    "aum": null
   },
   "top_holdings": [
     {
@@ -299,8 +302,8 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 21,
-      "stat_3y": 14,
+      "stat_1y": 19,
+      "stat_3y": 12,
       "stat_5y": 3,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -314,7 +317,7 @@
       "category": "Equity",
       "sub_category": "Mid Cap",
       "sub_sub_category": "",
-      "aum": 15748.8276,
+      "aum": 15748.83,
       "mean_return": 22.21,
       "return3y": 21.07,
       "return1y": 0.89,
@@ -359,7 +362,7 @@
       "category": "Equity",
       "sub_category": "Mid Cap",
       "sub_sub_category": "",
-      "aum": 16799.5905,
+      "aum": 16799.59,
       "mean_return": 22.29,
       "return3y": 20.98,
       "return1y": 10.76,
@@ -404,7 +407,7 @@
       "category": "Equity",
       "sub_category": "Mid Cap",
       "sub_sub_category": "",
-      "aum": 8399.7071115,
+      "aum": 8399.71,
       "mean_return": 20.14,
       "return3y": 19.66,
       "return1y": 6.35,
@@ -449,7 +452,7 @@
       "category": "Equity",
       "sub_category": "Mid Cap",
       "sub_sub_category": "",
-      "aum": 19230.1562,
+      "aum": 19230.16,
       "mean_return": 19.46,
       "return3y": 18.84,
       "return1y": 1.11,
@@ -494,7 +497,7 @@
       "category": "Equity",
       "sub_category": "Mid Cap",
       "sub_sub_category": "",
-      "aum": 50176.0139,
+      "aum": 50176.01,
       "mean_return": 17.32,
       "return3y": 16.1,
       "return1y": 1.23,

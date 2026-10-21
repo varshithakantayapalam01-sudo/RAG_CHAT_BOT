@@ -19,7 +19,7 @@
   "expense_ratio": "0.83",
   "exit_load": "Exit load of 1% if redeemed within 1 year",
   "stamp_duty": "0.005% (from July 1st, 2020)",
-  "aum": 26552.9174,
+  "aum": 26552.92,
   "min_investment": {
     "lumpsum": 100,
     "sip": 100,
@@ -66,19 +66,19 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 14.41,
-      "cat_return3m": -2.04,
-      "cat_return6m": 2.87,
-      "cat_return1y": -0.62,
-      "cat_return3y": 11.98,
-      "cat_return5y": 9.91,
-      "cat_return10y": 13.54,
-      "cat_return_since_launch": 14.65,
-      "rank3m": 12,
-      "rank6m": 15,
-      "rank1yr": 17,
+      "cat_return3m": -3.45,
+      "cat_return6m": 0.93,
+      "cat_return1y": -1.82,
+      "cat_return3y": 11.75,
+      "cat_return5y": 9.67,
+      "cat_return10y": 13.34,
+      "cat_return_since_launch": 14.55,
+      "rank3m": 13,
+      "rank6m": 16,
+      "rank1yr": 18,
       "rank3yr": 5,
       "rank5yr": 1,
-      "rank10yr": 3,
+      "rank10yr": 4,
       "rank_count3m": 28,
       "rank_count6m": 28,
       "rank_count1yr": 28,
@@ -99,7 +99,8 @@
       "vro_return4y": 16.39,
       "vro_return_date": null,
       "vro_modified_ts": null,
-      "vro_row_number": null
+      "vro_row_number": null,
+      "aum": 26552.92
     }
   ],
   "sip_return": {
@@ -158,7 +159,8 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null
+    "vro_row_number": null,
+    "aum": null
   },
   "simple_return": {
     "scheme_code": "118950",
@@ -216,7 +218,8 @@
     "vro_return4y": null,
     "vro_return_date": null,
     "vro_modified_ts": null,
-    "vro_row_number": null
+    "vro_row_number": null,
+    "aum": null
   },
   "top_holdings": [
     {
@@ -299,8 +302,8 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 18,
-      "stat_3y": 4,
+      "stat_1y": 17,
+      "stat_3y": 5,
       "stat_5y": 1,
       "stat_all": null,
       "title": "Rank Within Category"
@@ -314,7 +317,7 @@
       "category": "Equity",
       "sub_category": "Flexi Cap",
       "sub_sub_category": "",
-      "aum": 3098.0103,
+      "aum": 3098.01,
       "mean_return": 18.71,
       "return3y": 17.68,
       "return1y": 6.54,
@@ -359,7 +362,7 @@
       "category": "Equity",
       "sub_category": "Flexi Cap",
       "sub_sub_category": "",
-      "aum": 1588.2798069,
+      "aum": 1588.28,
       "mean_return": 18.15,
       "return3y": 17.34,
       "return1y": 7.46,
@@ -404,7 +407,7 @@
       "category": "Equity",
       "sub_category": "Flexi Cap",
       "sub_sub_category": "",
-      "aum": 5748.7358,
+      "aum": 5748.74,
       "mean_return": 15.48,
       "return3y": 14.49,
       "return1y": 1.14,
@@ -449,7 +452,7 @@
       "category": "Equity",
       "sub_category": "Flexi Cap",
       "sub_sub_category": "",
-      "aum": 108546.9792,
+      "aum": 108546.98,
       "mean_return": 14.58,
       "return3y": 14.41,
       "return1y": -4.5,
@@ -494,7 +497,7 @@
       "category": "Equity",
       "sub_category": "Flexi Cap",
       "sub_sub_category": "",
-      "aum": 18188.24326769,
+      "aum": 18188.24,
       "mean_return": 10.34,
       "return3y": 9.35,
       "return1y": -8.18,
