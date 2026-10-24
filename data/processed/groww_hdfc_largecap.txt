@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-10-23T09:41:44.906420+00:00
+Downloaded: 2026-10-24T09:14:35.777333+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1145.053
-  NAV Date:         22-Oct-2026
+  Current NAV:      1133.761
+  NAV Date:         23-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: -0.46%
-  return1w: -2.08%
-  return1m: -4.85%
-  return3m: -6.66%
-  return6m: -5.58%
-  return9m: -8.36%
-  return1y: -9.49%
-  return2y: -6.44%
-  return3y: 23.88%
-  return4y: 48.43%
-  return5y: 51.36%
-  return7y: 128.33%
-  return10y: 197.17%
-  return_since_created: 400.15%
-  cat_return3m: -5.29%
-  cat_return6m: -5.26%
-  cat_return1y: -8.13%
-  cat_return3y: 29.61%
-  cat_return5y: 42.9%
-  cat_return10y: 193.14%
-  cat_return_since_launch: 172.15%
+  return1d: -0.99%
+  return1w: -3.32%
+  return1m: -6.11%
+  return3m: -7.13%
+  return6m: -5.64%
+  return9m: -8.17%
+  return1y: -10.26%
+  return2y: -7.07%
+  return3y: 24.38%
+  return4y: 46.96%
+  return5y: 49.86%
+  return7y: 125.59%
+  return10y: 194.24%
+  return_since_created: 395.22%
+  cat_return3m: -5.62%
+  cat_return6m: -5.21%
+  cat_return1y: -9.1%
+  cat_return3y: 30.39%
+  cat_return5y: 41.62%
+  cat_return10y: 191.05%
+  cat_return_since_launch: 169.81%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
