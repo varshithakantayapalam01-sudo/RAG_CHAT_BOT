@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-10-24T09:14:35.777333+00:00
+Downloaded: 2026-10-25T09:31:41.651940+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -77,16 +77,16 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: -35.69%
-  return6m: -17.3%
-  return9m: -11.67%
-  return1y: -11.57%
-  return2y: -4.88%
-  return3y: -1.54%
-  return4y: 3.57%
-  return5y: 6.36%
-  return10y: 11.18%
-  return_since_created: 11.9%
+  return3m: -39.58%
+  return6m: -20.2%
+  return9m: -13.84%
+  return1y: -13.23%
+  return2y: -5.8%
+  return3y: -2.18%
+  return4y: 3.07%
+  return5y: 5.95%
+  return10y: 10.99%
+  return_since_created: 11.77%
 
 TOP HOLDINGS
 ----------------------------------------
