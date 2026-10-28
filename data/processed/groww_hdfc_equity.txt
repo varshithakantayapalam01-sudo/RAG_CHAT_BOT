@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-10-27T10:09:03.626736+00:00
+Downloaded: 2026-10-28T10:55:40.511488+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      2143.156
-  NAV Date:         26-Oct-2026
+  Current NAV:      2152.609
+  NAV Date:         27-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -54,40 +54,40 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 1%
-  return1w: -0.88%
-  return1m: -3.22%
-  return3m: -2.95%
-  return6m: -0.27%
-  return9m: -3.32%
-  return1y: -5.31%
-  return2y: 5.02%
-  return3y: 54.26%
-  return4y: 78.15%
-  return5y: 94.94%
-  return7y: 215.38%
-  return10y: 308.04%
-  return_since_created: 621.9%
-  cat_return3m: -4.28%
-  cat_return6m: -0.77%
-  cat_return1y: -4.57%
-  cat_return3y: 40.62%
-  cat_return5y: 56.41%
-  cat_return10y: 230.18%
-  cat_return_since_launch: 163.51%
+  return1d: 0.44%
+  return1w: -0.44%
+  return1m: -2.8%
+  return3m: -3.58%
+  return6m: -0.59%
+  return9m: -3.61%
+  return1y: -5.52%
+  return2y: 5.48%
+  return3y: 53.16%
+  return4y: 77.92%
+  return5y: 95.78%
+  return7y: 216.77%
+  return10y: 310.5%
+  return_since_created: 625.09%
+  cat_return3m: -4.44%
+  cat_return6m: -0.85%
+  cat_return1y: -4.26%
+  cat_return3y: 40.24%
+  cat_return5y: 57.8%
+  cat_return10y: 235.31%
+  cat_return_since_launch: 166.02%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: -26.85%
-  return6m: -9.41%
-  return9m: -4.94%
-  return1y: -5.63%
-  return2y: 0.22%
-  return3y: 4.55%
-  return4y: 9.9%
-  return5y: 12.61%
-  return10y: 16.1%
-  return_since_created: 15.76%
+  return3m: -24.26%
+  return6m: -7.86%
+  return9m: -3.86%
+  return1y: -4.8%
+  return2y: 0.65%
+  return3y: 4.84%
+  return4y: 10.11%
+  return5y: 12.78%
+  return10y: 16.18%
+  return_since_created: 15.81%
 
 TOP HOLDINGS
 ----------------------------------------
