@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-10-30T11:07:16.879691+00:00
+Downloaded: 2026-10-31T10:41:20.080293+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      2180.5
-  NAV Date:         29-Oct-2026
+  Current NAV:      2187.57
+  NAV Date:         30-Oct-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -54,27 +54,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.66%
-  return1w: 2.17%
-  return1m: 0.36%
-  return3m: -3.64%
-  return6m: 1.32%
-  return9m: -3.06%
-  return1y: -4.8%
-  return2y: 5.96%
-  return3y: 55.15%
-  return4y: 80.44%
-  return5y: 105.16%
-  return7y: 215.66%
-  return10y: 314.33%
-  return_since_created: 634.48%
-  cat_return3m: -4.22%
-  cat_return6m: 0.1%
-  cat_return1y: -3.6%
-  cat_return3y: 41.67%
-  cat_return5y: 62.68%
-  cat_return10y: 236.68%
-  cat_return_since_launch: 166.3%
+  return1d: 0.32%
+  return1w: 3.09%
+  return1m: 0.85%
+  return3m: -3.44%
+  return6m: 2.37%
+  return9m: -2.5%
+  return1y: -4.02%
+  return2y: 7.1%
+  return3y: 55.11%
+  return4y: 81.02%
+  return5y: 105.83%
+  return7y: 213.91%
+  return10y: 315.67%
+  return_since_created: 636.86%
+  cat_return3m: -4.62%
+  cat_return6m: 0.37%
+  cat_return1y: -3.7%
+  cat_return3y: 40.79%
+  cat_return5y: 62.04%
+  cat_return10y: 235.82%
+  cat_return_since_launch: 165.27%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
