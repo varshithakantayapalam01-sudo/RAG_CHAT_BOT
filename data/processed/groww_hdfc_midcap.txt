@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-11-01T11:36:19.817464+00:00
+Downloaded: 2026-11-02T12:58:56.939717+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -86,7 +86,7 @@ SIP RETURNS (XIRR)
   return4y: 11.82%
   return5y: 14.9%
   return10y: 18.11%
-  return_since_created: 18.56%
+  return_since_created: 18.58%
 
 TOP HOLDINGS
 ----------------------------------------

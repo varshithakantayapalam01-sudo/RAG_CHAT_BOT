@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 Scheme: HDFC Focused Fund – Direct Growth
 Category: Focused / Flexi-Cap
-Downloaded: 2026-11-01T11:36:19.817464+00:00
+Downloaded: 2026-11-02T12:58:56.939717+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -9,7 +9,7 @@ SCHEME INFORMATION
   Scheme Name:      HDFC Focused Fund Direct Growth
   AMC:              HDFC
   Category:         Equity
-  Sub-Category:     Flexi Cap
+  Sub-Category:     Focused
   Plan Type:        Direct
   Scheme Type:      Growth
   Launch Date:      01-Jan-2013
@@ -86,7 +86,7 @@ SIP RETURNS (XIRR)
   return4y: 10.62%
   return5y: 13.38%
   return10y: 16.16%
-  return_since_created: 15.43%
+  return_since_created: 15.41%
 
 TOP HOLDINGS
 ----------------------------------------
