@@ -8,9 +8,9 @@
       "scheme": "HDFC Mid-Cap Fund – Direct Growth",
       "category": "Mid-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-11-02T12:58:56.939717+00:00",
+      "downloaded_at": "2026-11-03T12:31:30.120961+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_midcap.html",
-      "content_length": 496545
+      "content_length": 496665
     },
     {
       "id": "groww_hdfc_equity",
@@ -20,9 +20,9 @@
       "scheme": "HDFC Equity Fund – Direct Growth",
       "category": "Multi-Cap / Flexi-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-11-02T12:58:56.939717+00:00",
+      "downloaded_at": "2026-11-03T12:31:30.120961+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_equity.html",
-      "content_length": 501029
+      "content_length": 500998
     },
     {
       "id": "groww_hdfc_focused",
@@ -32,9 +32,9 @@
       "scheme": "HDFC Focused Fund – Direct Growth",
       "category": "Focused / Flexi-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-11-02T12:58:56.939717+00:00",
+      "downloaded_at": "2026-11-03T12:31:30.120961+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_focused.html",
-      "content_length": 443601
+      "content_length": 443715
     },
     {
       "id": "groww_hdfc_elss",
@@ -44,9 +44,9 @@
       "scheme": "HDFC ELSS Tax Saver Fund – Direct Plan Growth",
       "category": "ELSS (Tax Saving)",
       "status": "downloaded",
-      "downloaded_at": "2026-11-02T12:58:56.939717+00:00",
+      "downloaded_at": "2026-11-03T12:31:30.120961+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_elss.html",
-      "content_length": 458394
+      "content_length": 458509
     },
     {
       "id": "groww_hdfc_largecap",
@@ -56,9 +56,9 @@
       "scheme": "HDFC Large Cap Fund – Direct Growth",
       "category": "Large-Cap",
       "status": "downloaded",
-      "downloaded_at": "2026-11-02T12:58:56.939717+00:00",
+      "downloaded_at": "2026-11-03T12:31:30.120961+00:00",
       "raw_file": "data/raw/groww/groww_hdfc_largecap.html",
-      "content_length": 460254
+      "content_length": 460256
     }
   ],
   "corpus_stats": {
@@ -72,8 +72,8 @@
     "allowed_domains": [
       "groww.in"
     ],
-    "last_collected": "2026-11-02T12:58:56.939717+00:00",
+    "last_collected": "2026-11-03T12:31:30.120961+00:00",
     "last_verified": null,
-    "last_ingested": "2026-11-02T12:59:08.153095+00:00"
+    "last_ingested": "2026-11-03T12:31:42.567203+00:00"
   }
 }
