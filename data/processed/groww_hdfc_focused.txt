@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 Scheme: HDFC Focused Fund – Direct Growth
 Category: Focused / Flexi-Cap
-Downloaded: 2026-11-05T12:52:22.487931+00:00
+Downloaded: 2026-11-06T12:37:43.059268+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,12 +25,12 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      267.109
-  NAV Date:         04-Nov-2026
+  Current NAV:      273.521
+  NAV Date:         05-Nov-2026
 
 COSTS & FEES
 ----------------------------------------
-  Expense Ratio:    0.83
+  Expense Ratio:    0.84
   Exit Load:        Exit load of 1% if redeemed within 1 year
   Stamp Duty:       0.005% (from July 1st, 2020)
 
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.97%
-  return1w: 4.05%
-  return1m: 4.8%
-  return3m: -1.96%
-  return6m: 4.8%
-  return9m: -1.72%
-  return1y: -1.34%
-  return2y: 9.84%
-  return3y: 56.63%
-  return4y: 84.11%
-  return5y: 113.68%
-  return7y: 218.01%
-  return10y: 307.84%
-  return_since_created: 562.77%
-  cat_return3m: -2.74%
-  cat_return6m: 3.89%
-  cat_return1y: 0.49%
-  cat_return3y: 45.15%
-  cat_return5y: 64.58%
-  cat_return10y: 269.66%
-  cat_return_since_launch: 252.19%
+  return1d: 2.4%
+  return1w: 5.56%
+  return1m: 7.17%
+  return3m: 0.43%
+  return6m: 7.81%
+  return9m: 0.87%
+  return1y: 1.03%
+  return2y: 11.24%
+  return3y: 60.39%
+  return4y: 88.53%
+  return5y: 118.81%
+  return7y: 227.58%
+  return10y: 317.63%
+  return_since_created: 578.68%
+  cat_return3m: -1.06%
+  cat_return6m: 6.24%
+  cat_return1y: 2.59%
+  cat_return3y: 48.18%
+  cat_return5y: 68.12%
+  cat_return10y: 277.41%
+  cat_return_since_launch: 259.58%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
