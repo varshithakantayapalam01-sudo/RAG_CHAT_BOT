@@ -68,7 +68,7 @@
       "return_since_created": 16.05,
       "cat_return3m": -0.84,
       "cat_return6m": 3.94,
-      "cat_return1y": 3.07,
+      "cat_return1y": 3.08,
       "cat_return3y": 13.11,
       "cat_return5y": 10.85,
       "cat_return10y": 13.97,
@@ -302,9 +302,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 25,
-      "stat_3y": 7,
-      "stat_5y": 2,
+      "stat_1y": 26,
+      "stat_3y": 8,
+      "stat_5y": 3,
       "stat_all": null,
       "title": "Rank Within Category"
     }
