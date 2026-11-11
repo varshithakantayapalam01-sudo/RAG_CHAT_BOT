@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-equity-fund-direct-growth
 Scheme: HDFC Equity Fund – Direct Growth
 Category: Multi-Cap / Flexi-Cap
-Downloaded: 2026-11-10T13:10:10.494915+00:00
+Downloaded: 2026-11-11T12:19:57.673776+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -68,13 +68,13 @@ LUMPSUM RETURNS
   return7y: 234.85%
   return10y: 359.93%
   return_since_created: 690.17%
-  cat_return3m: -0.07%
-  cat_return6m: 4.99%
+  cat_return3m: -0.06%
+  cat_return6m: 5%
   cat_return1y: 4.3%
-  cat_return3y: 46.95%
-  cat_return5y: 68.14%
-  cat_return10y: 271.54%
-  cat_return_since_launch: 183.55%
+  cat_return3y: 46.94%
+  cat_return5y: 68.1%
+  cat_return10y: 271.48%
+  cat_return_since_launch: 183.56%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
