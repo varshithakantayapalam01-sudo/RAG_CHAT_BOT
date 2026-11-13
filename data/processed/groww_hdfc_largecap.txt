@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
 Scheme: HDFC Large Cap Fund – Direct Growth
 Category: Large-Cap
-Downloaded: 2026-11-12T13:29:09.001329+00:00
+Downloaded: 2026-11-13T12:44:36.205260+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1269.861
-  NAV Date:         11-Nov-2026
+  Current NAV:      1274.093
+  NAV Date:         12-Nov-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -53,40 +53,40 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.73%
-  return1w: 5.2%
-  return1m: 10.14%
-  return3m: 1.61%
-  return6m: 7.13%
-  return9m: -1.24%
-  return1y: 1.09%
-  return2y: 5.78%
-  return3y: 36.44%
-  return4y: 57.37%
-  return5y: 69.2%
-  return7y: 144.61%
-  return10y: 242.4%
-  return_since_created: 454.66%
-  cat_return3m: 2.06%
-  cat_return6m: 6.84%
-  cat_return1y: 1.79%
-  cat_return3y: 42.64%
-  cat_return5y: 57.79%
-  cat_return10y: 241.48%
-  cat_return_since_launch: 197.49%
+  return1d: 0.33%
+  return1w: 3.28%
+  return1m: 11.04%
+  return3m: 1.97%
+  return6m: 9.61%
+  return9m: -0.67%
+  return1y: 0.48%
+  return2y: 7.26%
+  return3y: 36.9%
+  return4y: 57.9%
+  return5y: 68.27%
+  return7y: 145.43%
+  return10y: 243.54%
+  return_since_created: 456.51%
+  cat_return3m: 2.37%
+  cat_return6m: 9.21%
+  cat_return1y: 1.44%
+  cat_return3y: 42.94%
+  cat_return5y: 56.36%
+  cat_return10y: 242.28%
+  cat_return_since_launch: 198.16%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 75.49%
-  return6m: 23.23%
-  return9m: 16.1%
-  return1y: 8.51%
-  return2y: 4.83%
-  return3y: 4.39%
-  return4y: 8.12%
-  return5y: 10.05%
-  return10y: 12.9%
-  return_since_created: 13.07%
+  return3m: 84.75%
+  return6m: 27.8%
+  return9m: 19.06%
+  return1y: 10.7%
+  return2y: 5.9%
+  return3y: 5.1%
+  return4y: 8.64%
+  return5y: 10.45%
+  return10y: 13.08%
+  return_since_created: 13.2%
 
 TOP HOLDINGS
 ----------------------------------------

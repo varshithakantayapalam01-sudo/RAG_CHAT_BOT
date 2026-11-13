@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-11-12T13:29:09.001329+00:00
+Downloaded: 2026-11-13T12:44:36.205260+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,18 +25,18 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1552.433
-  NAV Date:         11-Nov-2026
+  Current NAV:      1555.591
+  NAV Date:         12-Nov-2026
 
 COSTS & FEES
 ----------------------------------------
-  Expense Ratio:    1.19
+  Expense Ratio:    1.18
   Exit Load:        Nil
   Stamp Duty:       0.005% (from July 1st, 2020)
 
 FUND SIZE
 ----------------------------------------
-  AUM:              14,948.74 Cr
+  AUM:              15,108.43 Cr
   Turnover:         32%
 
 MINIMUM INVESTMENT
@@ -53,40 +53,40 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.98%
-  return1w: 4.84%
-  return1m: 10.09%
-  return3m: 2.19%
-  return6m: 7.31%
-  return9m: -1.92%
-  return1y: -0.97%
-  return2y: 7.27%
-  return3y: 50.42%
-  return4y: 77.92%
-  return5y: 94.91%
-  return7y: 189.12%
-  return10y: 262.22%
-  return_since_created: 530.01%
-  cat_return3m: 0.81%
-  cat_return6m: 6.24%
-  cat_return1y: 3.42%
-  cat_return3y: 45.24%
-  cat_return5y: 70.98%
-  cat_return10y: 288.48%
-  cat_return_since_launch: 374.8%
+  return1d: 0.2%
+  return1w: 2.87%
+  return1m: 10.68%
+  return3m: 2.41%
+  return6m: 9.29%
+  return9m: -1.21%
+  return1y: -1.05%
+  return2y: 8.67%
+  return3y: 50.72%
+  return4y: 78.28%
+  return5y: 93.6%
+  return7y: 189.71%
+  return10y: 262.96%
+  return_since_created: 531.29%
+  cat_return3m: 1.29%
+  cat_return6m: 8.85%
+  cat_return1y: 3.37%
+  cat_return3y: 45.89%
+  cat_return5y: 70.24%
+  cat_return10y: 290.33%
+  cat_return_since_launch: 376.96%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 71.62%
-  return6m: 23.57%
-  return9m: 15.68%
-  return1y: 7.54%
-  return2y: 4.34%
-  return3y: 5.64%
-  return4y: 10.74%
-  return5y: 13%
-  return10y: 14.81%
-  return_since_created: 14.31%
+  return3m: 82.81%
+  return6m: 28.76%
+  return9m: 19.02%
+  return1y: 9.99%
+  return2y: 5.53%
+  return3y: 6.42%
+  return4y: 11.31%
+  return5y: 13.44%
+  return10y: 15.01%
+  return_since_created: 14.45%
 
 TOP HOLDINGS
 ----------------------------------------
