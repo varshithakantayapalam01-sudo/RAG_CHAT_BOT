@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
 Scheme: HDFC Mid-Cap Fund – Direct Growth
 Category: Mid-Cap
-Downloaded: 2026-11-13T12:44:36.205260+00:00
+Downloaded: 2026-11-14T11:53:34.045028+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,12 +25,12 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      230.663
-  NAV Date:         12-Nov-2026
+  Current NAV:      229.697
+  NAV Date:         13-Nov-2026
 
 COSTS & FEES
 ----------------------------------------
-  Expense Ratio:    0.74
+  Expense Ratio:    0.73
   Exit Load:        Exit load of 1% if redeemed within 1 year.
   Stamp Duty:       0.005% (from July 1st, 2020)
 
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.48%
-  return1w: 2%
-  return1m: 5.18%
-  return3m: -2.63%
-  return6m: 6.48%
-  return9m: 2.02%
-  return1y: 2.7%
-  return2y: 14.02%
-  return3y: 58.09%
-  return4y: 110.36%
-  return5y: 125.4%
-  return7y: 315.68%
-  return10y: 407.38%
-  return_since_created: 1127%
-  cat_return3m: -1.9%
-  cat_return6m: 6.55%
-  cat_return1y: 4.86%
-  cat_return3y: 57.86%
-  cat_return5y: 96.7%
-  cat_return10y: 382.65%
-  cat_return_since_launch: 346.37%
+  return1d: -0.42%
+  return1w: 1.62%
+  return1m: 3.8%
+  return3m: -3.11%
+  return6m: 5.99%
+  return9m: 2.78%
+  return1y: 2.38%
+  return2y: 15.98%
+  return3y: 56.16%
+  return4y: 109.48%
+  return5y: 124.46%
+  return7y: 315.95%
+  return10y: 405.25%
+  return_since_created: 1121.86%
+  cat_return3m: -2.21%
+  cat_return6m: 5.91%
+  cat_return1y: 5.04%
+  cat_return3y: 56.76%
+  cat_return5y: 96.4%
+  cat_return10y: 382.02%
+  cat_return_since_launch: 345.74%
 
 SIP RETURNS (XIRR)
 ----------------------------------------

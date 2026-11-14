@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-11-13T12:44:36.205260+00:00
+Downloaded: 2026-11-14T11:53:34.045028+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -25,8 +25,8 @@ DESCRIPTION
 
 NAV DETAILS
 ----------------------------------------
-  Current NAV:      1555.591
-  NAV Date:         12-Nov-2026
+  Current NAV:      1546.948
+  NAV Date:         13-Nov-2026
 
 COSTS & FEES
 ----------------------------------------
@@ -53,27 +53,27 @@ LOCK-IN PERIOD
 
 LUMPSUM RETURNS
 ----------------------------------------
-  return1d: 0.2%
-  return1w: 2.87%
-  return1m: 10.68%
-  return3m: 2.41%
-  return6m: 9.29%
-  return9m: -1.21%
-  return1y: -1.05%
-  return2y: 8.67%
-  return3y: 50.72%
-  return4y: 78.28%
-  return5y: 93.6%
-  return7y: 189.71%
-  return10y: 262.96%
-  return_since_created: 531.29%
-  cat_return3m: 1.29%
-  cat_return6m: 8.85%
-  cat_return1y: 3.37%
-  cat_return3y: 45.89%
-  cat_return5y: 70.24%
-  cat_return10y: 290.33%
-  cat_return_since_launch: 376.96%
+  return1d: -0.56%
+  return1w: 0.68%
+  return1m: 8.82%
+  return3m: 2.02%
+  return6m: 8.76%
+  return9m: -0.75%
+  return1y: -1.78%
+  return2y: 9.83%
+  return3y: 50.04%
+  return4y: 77.29%
+  return5y: 92.52%
+  return7y: 191.77%
+  return10y: 260.94%
+  return_since_created: 527.79%
+  cat_return3m: 0.94%
+  cat_return6m: 8.2%
+  cat_return1y: 3.03%
+  cat_return3y: 44.75%
+  cat_return5y: 69.53%
+  cat_return10y: 288.62%
+  cat_return_since_launch: 374.76%
 
 SIP RETURNS (XIRR)
 ----------------------------------------
