@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 Scheme: HDFC Focused Fund – Direct Growth
 Category: Focused / Flexi-Cap
-Downloaded: 2026-11-14T11:53:34.045028+00:00
+Downloaded: 2026-11-15T12:23:47.844735+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -77,16 +77,16 @@ LUMPSUM RETURNS
 
 SIP RETURNS (XIRR)
 ----------------------------------------
-  return3m: 92.51%
-  return6m: 35.89%
-  return9m: 25.65%
-  return1y: 16.15%
-  return2y: 10.02%
-  return3y: 10.52%
-  return4y: 14.56%
-  return5y: 16.55%
-  return10y: 17.67%
-  return_since_created: 16.43%
+  return3m: 84.86%
+  return6m: 33.78%
+  return9m: 24.43%
+  return1y: 15.36%
+  return2y: 9.66%
+  return3y: 10.28%
+  return4y: 14.38%
+  return5y: 16.41%
+  return10y: 17.6%
+  return_since_created: 16.38%
 
 TOP HOLDINGS
 ----------------------------------------
