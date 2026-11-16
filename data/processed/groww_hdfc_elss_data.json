@@ -225,61 +225,61 @@
     {
       "name": "ICICI Bank Ltd",
       "sector": "Financial",
-      "percentage": 9.06,
+      "percentage": 9.48,
       "instrument_type": ""
     },
     {
       "name": "HDFC Bank Ltd",
       "sector": "Financial",
-      "percentage": 7.87,
+      "percentage": 7.61,
       "instrument_type": ""
     },
     {
       "name": "Axis Bank Ltd",
       "sector": "Financial",
-      "percentage": 6.56,
+      "percentage": 6.44,
       "instrument_type": ""
     },
     {
       "name": "Kotak Mahindra Bank Ltd",
       "sector": "Financial",
-      "percentage": 4.88,
-      "instrument_type": ""
-    },
-    {
-      "name": "State Bank of India",
-      "sector": "Financial",
-      "percentage": 4.49,
+      "percentage": 5.35,
       "instrument_type": ""
     },
     {
       "name": "Bharti Airtel Ltd",
       "sector": "Technology",
-      "percentage": 4.45,
+      "percentage": 4.95,
+      "instrument_type": ""
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "Financial",
+      "percentage": 4.46,
       "instrument_type": ""
     },
     {
       "name": "Maruti Suzuki India Ltd",
       "sector": "Consumer Discretionary",
-      "percentage": 4.4,
-      "instrument_type": ""
-    },
-    {
-      "name": "SBI Life Insurance Company Ltd",
-      "sector": "Financial",
-      "percentage": 3.21,
+      "percentage": 4.15,
       "instrument_type": ""
     },
     {
       "name": "HCL Technologies Ltd",
       "sector": "Technology",
-      "percentage": 2.94,
+      "percentage": 3.38,
       "instrument_type": ""
     },
     {
-      "name": "Hyundai Motor India Ltd.",
-      "sector": "Consumer Discretionary",
-      "percentage": 2.72,
+      "name": "SBI Life Insurance Company Ltd",
+      "sector": "Financial",
+      "percentage": 2.78,
+      "instrument_type": ""
+    },
+    {
+      "name": "Reliance Industries Ltd",
+      "sector": "Energy & Utilities",
+      "percentage": 2.56,
       "instrument_type": ""
     }
   ],

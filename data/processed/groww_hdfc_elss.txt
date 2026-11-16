@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-elss-tax-saver-fund-direct-plan-growth
 Scheme: HDFC ELSS Tax Saver Fund – Direct Plan Growth
 Category: ELSS (Tax Saving)
-Downloaded: 2026-11-15T12:23:47.844735+00:00
+Downloaded: 2026-11-16T13:16:24.921230+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -90,16 +90,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.06%
-   2. HDFC Bank Ltd (Financial) - 7.87%
-   3. Axis Bank Ltd (Financial) - 6.56%
-   4. Kotak Mahindra Bank Ltd (Financial) - 4.88%
-   5. State Bank of India (Financial) - 4.49%
-   6. Bharti Airtel Ltd (Technology) - 4.45%
-   7. Maruti Suzuki India Ltd (Consumer Discretionary) - 4.4%
-   8. SBI Life Insurance Company Ltd (Financial) - 3.21%
-   9. HCL Technologies Ltd (Technology) - 2.94%
-  10. Hyundai Motor India Ltd. (Consumer Discretionary) - 2.72%
+   1. ICICI Bank Ltd (Financial) - 9.48%
+   2. HDFC Bank Ltd (Financial) - 7.61%
+   3. Axis Bank Ltd (Financial) - 6.44%
+   4. Kotak Mahindra Bank Ltd (Financial) - 5.35%
+   5. Bharti Airtel Ltd (Technology) - 4.95%
+   6. State Bank of India (Financial) - 4.46%
+   7. Maruti Suzuki India Ltd (Consumer Discretionary) - 4.15%
+   8. HCL Technologies Ltd (Technology) - 3.38%
+   9. SBI Life Insurance Company Ltd (Financial) - 2.78%
+  10. Reliance Industries Ltd (Energy & Utilities) - 2.56%
 
 FUND MANAGER DETAILS
 ----------------------------------------

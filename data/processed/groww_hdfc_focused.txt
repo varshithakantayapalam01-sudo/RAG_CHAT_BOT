@@ -1,7 +1,7 @@
 Source: https://groww.in/mutual-funds/hdfc-focused-fund-direct-growth
 Scheme: HDFC Focused Fund – Direct Growth
 Category: Focused / Flexi-Cap
-Downloaded: 2026-11-15T12:23:47.844735+00:00
+Downloaded: 2026-11-16T13:16:24.921230+00:00
 ============================================================
 
 SCHEME INFORMATION
@@ -90,16 +90,16 @@ SIP RETURNS (XIRR)
 
 TOP HOLDINGS
 ----------------------------------------
-   1. ICICI Bank Ltd (Financial) - 9.16%
-   2. HDFC Bank Ltd (Financial) - 7.83%
-   3. Kotak Mahindra Bank Ltd (Financial) - 6.91%
-   4. Axis Bank Ltd (Financial) - 6.24%
-   5. State Bank of India (Financial) - 5.1%
-   6. Zomato Ltd (Technology) - 4.87%
-   7. Sun Pharmaceutical Industries Ltd (Healthcare) - 4.07%
-   8. Interglobe Aviation Ltd (Industrials) - 4%
-   9. HCL Technologies Ltd (Technology) - 3.54%
-  10. Maruti Suzuki India Ltd (Consumer Discretionary) - 3.4%
+   1. ICICI Bank Ltd (Financial) - 9.54%
+   2. HDFC Bank Ltd (Financial) - 8.42%
+   3. Kotak Mahindra Bank Ltd (Financial) - 7.62%
+   4. Zomato Ltd (Technology) - 5.49%
+   5. Axis Bank Ltd (Financial) - 5.24%
+   6. State Bank of India (Financial) - 5.04%
+   7. Repo (Unspecified) - 4.85%
+   8. Sun Pharmaceutical Industries Ltd (Healthcare) - 3.98%
+   9. Interglobe Aviation Ltd (Industrials) - 3.86%
+  10. Bharti Airtel Ltd (Technology) - 3.6%
 
 FUND MANAGER DETAILS
 ----------------------------------------

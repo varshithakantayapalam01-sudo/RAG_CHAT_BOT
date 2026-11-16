@@ -225,61 +225,61 @@
     {
       "name": "ICICI Bank Ltd",
       "sector": "Financial",
-      "percentage": 9.16,
+      "percentage": 9.54,
       "instrument_type": ""
     },
     {
       "name": "HDFC Bank Ltd",
       "sector": "Financial",
-      "percentage": 7.83,
+      "percentage": 8.42,
       "instrument_type": ""
     },
     {
       "name": "Kotak Mahindra Bank Ltd",
       "sector": "Financial",
-      "percentage": 6.91,
-      "instrument_type": ""
-    },
-    {
-      "name": "Axis Bank Ltd",
-      "sector": "Financial",
-      "percentage": 6.24,
-      "instrument_type": ""
-    },
-    {
-      "name": "State Bank of India",
-      "sector": "Financial",
-      "percentage": 5.1,
+      "percentage": 7.62,
       "instrument_type": ""
     },
     {
       "name": "Zomato Ltd",
       "sector": "Technology",
-      "percentage": 4.87,
+      "percentage": 5.49,
+      "instrument_type": ""
+    },
+    {
+      "name": "Axis Bank Ltd",
+      "sector": "Financial",
+      "percentage": 5.24,
+      "instrument_type": ""
+    },
+    {
+      "name": "State Bank of India",
+      "sector": "Financial",
+      "percentage": 5.04,
+      "instrument_type": ""
+    },
+    {
+      "name": "Repo",
+      "sector": "Unspecified",
+      "percentage": 4.85,
       "instrument_type": ""
     },
     {
       "name": "Sun Pharmaceutical Industries Ltd",
       "sector": "Healthcare",
-      "percentage": 4.07,
+      "percentage": 3.98,
       "instrument_type": ""
     },
     {
       "name": "Interglobe Aviation Ltd",
       "sector": "Industrials",
-      "percentage": 4,
+      "percentage": 3.86,
       "instrument_type": ""
     },
     {
-      "name": "HCL Technologies Ltd",
+      "name": "Bharti Airtel Ltd",
       "sector": "Technology",
-      "percentage": 3.54,
-      "instrument_type": ""
-    },
-    {
-      "name": "Maruti Suzuki India Ltd",
-      "sector": "Consumer Discretionary",
-      "percentage": 3.4,
+      "percentage": 3.6,
       "instrument_type": ""
     }
   ],
@@ -302,7 +302,7 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 15,
+      "stat_1y": 16,
       "stat_3y": 3,
       "stat_5y": 1,
       "stat_all": null,

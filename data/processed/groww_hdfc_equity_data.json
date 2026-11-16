@@ -3,7 +3,7 @@
   "amc_name": "HDFC",
   "category": "Equity",
   "sub_category": "Flexi Cap",
-  "super_category": "HDFC Flexi Cap Direct Plan-Growth",
+  "super_category": "HDFC Flexi Cap Fund",
   "plan_type": "Direct",
   "scheme_type": "Growth",
   "launch_date": "01-Jan-2013",
@@ -302,9 +302,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 29,
-      "stat_3y": 7,
-      "stat_5y": 1,
+      "stat_1y": 30,
+      "stat_3y": 8,
+      "stat_5y": 2,
       "stat_all": null,
       "title": "Rank Within Category"
     }
@@ -488,7 +488,7 @@
       "sub_tag": null,
       "note_text": null,
       "deep_link": null,
-      "fund_name": "HDFC Flexi Cap Direct Plan-Growth"
+      "fund_name": "HDFC Flexi Cap Fund"
     },
     {
       "id": null,
