@@ -66,10 +66,10 @@
       "risk_rating": null,
       "risk": "Very High",
       "return_since_created": 16.33,
-      "cat_return3m": 2.06,
-      "cat_return6m": 8.84,
+      "cat_return3m": 2.07,
+      "cat_return6m": 8.85,
       "cat_return1y": 4.02,
-      "cat_return3y": 13.12,
+      "cat_return3y": 13.13,
       "cat_return5y": 11.4,
       "cat_return10y": 14.84,
       "cat_return_since_launch": 14.4,
@@ -302,9 +302,9 @@
     },
     {
       "type": "RANK_WITHIN_CATEGORY",
-      "stat_1y": 20,
-      "stat_3y": 5,
-      "stat_5y": 1,
+      "stat_1y": 21,
+      "stat_3y": 6,
+      "stat_5y": 2,
       "stat_all": null,
       "title": "Rank Within Category"
     }
